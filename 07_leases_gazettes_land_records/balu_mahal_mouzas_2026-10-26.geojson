@@ -1,0 +1,1123 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.0786,
+26.1136
+]
+},
+"properties": {
+"district": "Nilphamari",
+"upazila": "Dimla",
+"balu_mahal": "Bhendabari",
+"river": "Teesta",
+"mouza_doc": "Bhendabari (JL 53)",
+"matched_name": "053-Bhendabari",
+"source": "map.land.gov.bd landuse River+Sandbar plots",
+"union_geonames": "Jhunagachh Chapani",
+"match": "exact JL",
+"note": "River/Sandbar plots bbox 89.072-89.093 E 26.104-26.120 N",
+"in_window": "N242",
+"nearest_site": "N242",
+"nearest_km": 0.1,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.0345,
+25.829
+]
+},
+"properties": {
+"district": "Nilphamari",
+"upazila": "Kishoreganj",
+"balu_mahal": "Chandkhana",
+"river": "Jamuneshwari",
+"mouza_doc": "Chandkhana (JL 24)",
+"matched_name": "024-Dakkhin Chandkhana",
+"source": "map.land.gov.bd landuse River+Sandbar plots",
+"union_geonames": "Chandkhana",
+"match": "exact JL",
+"note": "River/Sandbar plots bbox 89.022-89.044 E 25.816-25.843 N",
+"in_window": "N243",
+"nearest_site": "N243",
+"nearest_km": 0.1,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+88.8594,
+26.0205
+]
+},
+"properties": {
+"district": "Nilphamari",
+"upazila": "Nilphamari Sadar",
+"balu_mahal": "Dubachhuri",
+"river": "Deonai",
+"mouza_doc": "Dubachhuri (JL 30)",
+"matched_name": "026-Dubachhuri",
+"source": "map.land.gov.bd landuse River plots",
+"union_geonames": "Lakshmi Chap",
+"match": "name (JL 26 on map vs 30 in list)",
+"note": "River plots bbox 88.851-88.880 E 26.007-26.032 N; no Sandbar class",
+"in_window": "",
+"nearest_site": "N244",
+"nearest_km": 2.4,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+88.3681,
+25.8172
+]
+},
+"properties": {
+"district": "Thakurgaon",
+"upazila": "Pirganj",
+"balu_mahal": "Tangon Kantor mouza",
+"river": "Tangon",
+"mouza_doc": "Kantor (read from scan)",
+"matched_name": "Kastor",
+"source": "GeoNames PPL",
+"union_geonames": "Daulatpur",
+"match": "0.17 skeleton",
+"note": "Scan reading may be Kastor; check on the PDF",
+"in_window": "",
+"nearest_site": "N241",
+"nearest_km": 2.7,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0032,
+24.9046
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Jamalpur Sadar",
+"balu_mahal": "Chhonkanda Charjothartopur",
+"river": "Brahmaputra",
+"mouza_doc": "Charjothartopur",
+"matched_name": "Jatharthapur",
+"source": "GeoNames PPL",
+"union_geonames": "Lakshmir Char",
+"match": "exact",
+"note": "Chhonkanda not found",
+"in_window": "N245",
+"nearest_site": "N245",
+"nearest_km": 0.8,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0332,
+24.8672
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Jamalpur Sadar",
+"balu_mahal": "Nandina Narundi Piyarpur",
+"river": "Brahmaputra",
+"mouza_doc": "Nandina",
+"matched_name": "Nandina",
+"source": "GeoNames PPL",
+"union_geonames": "Ranagachha",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N127",
+"nearest_km": 3.1,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.133,
+24.8529
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Jamalpur Sadar",
+"balu_mahal": "Nandina Narundi Piyarpur",
+"river": "Brahmaputra",
+"mouza_doc": "Narundi",
+"matched_name": "Narundi",
+"source": "GeoNames PPL",
+"union_geonames": "Narundi",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N246",
+"nearest_km": 2.3,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1914,
+24.8808
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Jamalpur Sadar",
+"balu_mahal": "Nandina Narundi Piyarpur",
+"river": "Brahmaputra",
+"mouza_doc": "Piyarpur",
+"matched_name": "Piarpur",
+"source": "GeoNames PPL",
+"union_geonames": "Itail",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N237",
+"nearest_km": 2.4,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.9996,
+24.7639
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Jamalpur Sadar",
+"balu_mahal": "Rashidpur Chandra",
+"river": "Brahmaputra",
+"mouza_doc": "Rashidpur",
+"matched_name": "Rasidpur",
+"source": "GeoNames PPL",
+"union_geonames": "Rashidpur",
+"match": "exact",
+"note": "Chandra not found",
+"in_window": "",
+"nearest_site": "N28",
+"nearest_km": 7.6,
+"nearest_class": "Land filling"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.829,
+25.1308
+]
+},
+"properties": {
+"district": "Jamalpur",
+"upazila": "Islampur",
+"balu_mahal": "Goalinirchar",
+"river": "Brahmaputra-Jamuna",
+"mouza_doc": "Goalinir Char",
+"matched_name": "Goaler Char",
+"source": "GeoNames PPL",
+"union_geonames": "Goaler Char",
+"match": "variant spelling",
+"note": "",
+"in_window": "",
+"nearest_site": "E033",
+"nearest_km": 1.8,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0143,
+24.9775
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Sherpur Sadar",
+"balu_mahal": "Mrigi nadi",
+"river": "Mrigi",
+"mouza_doc": "Lachhmanpur",
+"matched_name": "Lachhmanpur",
+"source": "GeoNames PPL",
+"union_geonames": "Lakshmanpur",
+"match": "exact",
+"note": "Sherpur mouza = town",
+"in_window": "N248",
+"nearest_site": "N248",
+"nearest_km": 0.9,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.9516,
+24.9544
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Sherpur Sadar",
+"balu_mahal": "Char Pakshimari",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Pakshimari",
+"matched_name": "Char Pakshimari",
+"source": "GeoNames ADM4",
+"union_geonames": "Char Pakshimari",
+"match": "exact",
+"note": "union centroid",
+"in_window": "N48,N239",
+"nearest_site": "N239",
+"nearest_km": 0.1,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1563,
+25.1819
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Chellakhali",
+"river": "Chellakhali",
+"mouza_doc": "Batkuchi",
+"matched_name": "Batkuchi",
+"source": "GeoNames PPL",
+"union_geonames": "Nunni Poragaon",
+"match": "exact",
+"note": "",
+"in_window": "N129",
+"nearest_site": "N129",
+"nearest_km": 1.4,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1761,
+25.1943
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Chellakhali",
+"river": "Chellakhali",
+"mouza_doc": "Palashikura",
+"matched_name": "Palasiakura",
+"source": "GeoNames PPL",
+"union_geonames": "Nunni Poragaon",
+"match": "exact",
+"note": "",
+"in_window": "N130",
+"nearest_site": "N130",
+"nearest_km": 0.6,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1598,
+25.1033
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Chellakhali",
+"river": "Chellakhali",
+"mouza_doc": "Sannyasivita",
+"matched_name": "Sanyasiphita",
+"source": "GeoNames PPL",
+"union_geonames": "Baghber Kalaspar",
+"match": "0.10",
+"note": "Tajurabad not found",
+"in_window": "",
+"nearest_site": "N116",
+"nearest_km": 4.2,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1994,
+25.1359
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Bhogai nadi",
+"river": "Bhogai",
+"mouza_doc": "Kerengapara",
+"matched_name": "Karangapara",
+"source": "GeoNames PPL",
+"union_geonames": "Ramchandrakura Mandalia",
+"match": "exact",
+"note": "",
+"in_window": "N131,N249",
+"nearest_site": "N131",
+"nearest_km": 1.1,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.2171,
+25.1636
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Bhogai nadi",
+"river": "Bhogai",
+"mouza_doc": "Mandaliapara",
+"matched_name": "Maodaliapara",
+"source": "GeoNames PPL",
+"union_geonames": "Ramchandrakura Mandalia",
+"match": "0.09",
+"note": "",
+"in_window": "N133",
+"nearest_site": "N133",
+"nearest_km": 1.3,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1895,
+25.1434
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Bhogai nadi",
+"river": "Bhogai",
+"mouza_doc": "Andharupara",
+"matched_name": "Andharpara",
+"source": "GeoNames PPL",
+"union_geonames": "Ramchandrakura Mandalia",
+"match": "0.10",
+"note": "",
+"in_window": "",
+"nearest_site": "N249",
+"nearest_km": 1.4,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.2071,
+25.1432
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Bhogai nadi",
+"river": "Bhogai",
+"mouza_doc": "Phulpur",
+"matched_name": "Phulpur",
+"source": "GeoNames PPL",
+"union_geonames": "Ramchandrakura Mandalia",
+"match": "exact",
+"note": "",
+"in_window": "N249",
+"nearest_site": "N249",
+"nearest_km": 0.5,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1746,
+25.2079
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Burunga o Andharupara Baigarpara",
+"river": "Bhogai (assumed)",
+"mouza_doc": "Burunga",
+"matched_name": "Buronga",
+"source": "GeoNames PPL",
+"union_geonames": "Nunni Poragaon",
+"match": "exact",
+"note": "",
+"in_window": "N130",
+"nearest_site": "N130",
+"nearest_km": 1.3,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1387,
+25.168
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Nalitabari",
+"balu_mahal": "Burunga o Andharupara Baigarpara",
+"river": "Bhogai (assumed)",
+"mouza_doc": "Baigarpara",
+"matched_name": "Baigarpara",
+"source": "GeoNames PPL",
+"union_geonames": "Nunni Poragaon",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N129",
+"nearest_km": 1.7,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0994,
+25.1376
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Bongaon Badechallish Kahnia",
+"river": "Maharshi (assumed)",
+"mouza_doc": "Bongaon",
+"matched_name": "Bangaon",
+"source": "GeoNames PPL",
+"union_geonames": "Nalkura Gauripur",
+"match": "exact",
+"note": "second Bangaon at 90.0755 25.1456",
+"in_window": "",
+"nearest_site": "N228",
+"nearest_km": 1.7,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.1154,
+25.2022
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Maharshi",
+"river": "Maharshi",
+"mouza_doc": "Fakrabad",
+"matched_name": "Phakrabad",
+"source": "GeoNames PPL",
+"union_geonames": "Nalkura Gauripur",
+"match": "exact",
+"note": "",
+"in_window": "N128",
+"nearest_site": "N128",
+"nearest_km": 1.3,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.072,
+25.1913
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Maharshi",
+"river": "Maharshi",
+"mouza_doc": "Ramerkura",
+"matched_name": "Ramarkura",
+"source": "GeoNames PPL",
+"union_geonames": "Jhenaigati",
+"match": "exact",
+"note": "Nalitabari Ramerkura (90.1616 25.174) is the other candidate",
+"in_window": "E050",
+"nearest_site": "E050",
+"nearest_km": 0.3,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.121,
+25.2079
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Maharshi",
+"river": "Maharshi",
+"mouza_doc": "Haldigram",
+"matched_name": "Haldigram",
+"source": "GeoNames PPL",
+"union_geonames": "Nalkura Gauripur",
+"match": "exact",
+"note": "Kudaljani not found",
+"in_window": "N128",
+"nearest_site": "N128",
+"nearest_km": 1.5,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0536,
+25.1336
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Paglarmukh",
+"river": "not stated",
+"mouza_doc": "Beltoil",
+"matched_name": "Beltail",
+"source": "GeoNames PPL",
+"union_geonames": "Hatibandha Malijhikanda",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N228",
+"nearest_km": 3.0,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0666,
+25.1311
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Paglarmukh",
+"river": "not stated",
+"mouza_doc": "Hatibandha",
+"matched_name": "Hatibanda",
+"source": "GeoNames PPL",
+"union_geonames": "Hatibandha Malijhikanda",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N228",
+"nearest_km": 1.9,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0447,
+25.1183
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Paglarmukh",
+"river": "not stated",
+"mouza_doc": "Ghagra Laskar",
+"matched_name": "Ghagralaskar",
+"source": "GeoNames PPL",
+"union_geonames": "Hatibandha Malijhikanda",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N228",
+"nearest_km": 4.5,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.0811,
+25.102
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Paglarmukh",
+"river": "not stated",
+"mouza_doc": "Baramalijhikanda",
+"matched_name": "Bara Malijhi Kanda",
+"source": "GeoNames PPL",
+"union_geonames": "Hatibandha Malijhikanda",
+"match": "exact",
+"note": "Paglarmukh = Malijhi river area",
+"in_window": "",
+"nearest_site": "N228",
+"nearest_km": 4.2,
+"nearest_class": "No signal"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.9932,
+25.2478
+]
+},
+"properties": {
+"district": "Sherpur",
+"upazila": "Jhenaigati",
+"balu_mahal": "Taoakocha",
+"river": "not stated",
+"mouza_doc": "Taoakocha",
+"matched_name": "Taokocha",
+"source": "GeoNames PPL",
+"union_geonames": "Kangsa Dhansail",
+"match": "exact",
+"note": "",
+"in_window": "N114",
+"nearest_site": "N114",
+"nearest_km": 1.1,
+"nearest_class": "Bar loss"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.3624,
+24.789
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Jelkhana",
+"matched_name": "Jailkhana Char",
+"source": "GeoNames PPL",
+"union_geonames": "Khagdahar",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N22",
+"nearest_km": 5.1,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.3158,
+24.8316
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Shyamrampur",
+"matched_name": "Char Syamrampur",
+"source": "GeoNames PPL",
+"union_geonames": "Paranganj",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N251",
+"nearest_km": 4.0,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.2734,
+24.8315
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Dhari Kushtia",
+"matched_name": "Char Dari Kushtia",
+"source": "GeoNames PPL",
+"union_geonames": "Kushtia",
+"match": "exact",
+"note": "",
+"in_window": "N251",
+"nearest_site": "N251",
+"nearest_km": 0.3,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.4685,
+24.7237
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Nilakshia",
+"matched_name": "Char Nilakshia",
+"source": "GeoNames PPL",
+"union_geonames": "Char Nilakshmia",
+"match": "exact",
+"note": "",
+"in_window": "N252",
+"nearest_site": "N252",
+"nearest_km": 1.1,
+"nearest_class": "Depot / stockpile"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.4227,
+24.7635
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Ishwardia",
+"matched_name": "Char Iswardia",
+"source": "GeoNames PPL",
+"union_geonames": "Char Ishwardia",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N22",
+"nearest_km": 1.8,
+"nearest_class": "Possible dredging"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.2894,
+24.8703
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Borer Char",
+"matched_name": "Borar Char",
+"source": "GeoNames PPL",
+"union_geonames": "Borar Char",
+"match": "exact",
+"note": "",
+"in_window": "",
+"nearest_site": "N250",
+"nearest_km": 2.3,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.2539,
+24.8455
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Rehai Tarapur",
+"matched_name": "Tarapur",
+"source": "GeoNames PPL",
+"union_geonames": "Borar Char",
+"match": "partial",
+"note": "",
+"in_window": "",
+"nearest_site": "N250",
+"nearest_km": 2.3,
+"nearest_class": "Bar vegetation"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.5136,
+24.6314
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Mymensingh Sadar (list)",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Algi",
+"matched_name": "Char Algi",
+"source": "GeoNames PPL",
+"union_geonames": "Uchakhila (Ishwarganj)",
+"match": "exact name",
+"note": "listed under Sadar; GeoNames puts it in Ishwarganj",
+"in_window": "N253",
+"nearest_site": "N253",
+"nearest_km": 1.0,
+"nearest_class": "Depot / stockpile"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.4721,
+24.6661
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Gauripur",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Khodabakshpur",
+"matched_name": "Khudabaksapur",
+"source": "GeoNames PPL",
+"union_geonames": "Bhangnamari",
+"match": "0.08",
+"note": "",
+"in_window": "",
+"nearest_site": "N238",
+"nearest_km": 2.4,
+"nearest_class": "Depot / stockpile"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.4641,
+24.6536
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Gauripur",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Char Bhabkhali",
+"matched_name": "Char Bhabakhali",
+"source": "GeoNames PPL",
+"union_geonames": "Bhangnamari",
+"match": "0.09",
+"note": "",
+"in_window": "",
+"nearest_site": "N238",
+"nearest_km": 3.9,
+"nearest_class": "Depot / stockpile"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.4731,
+24.708
+]
+},
+"properties": {
+"district": "Mymensingh",
+"upazila": "Gauripur",
+"balu_mahal": "BIWTA stockpiles",
+"river": "Old Brahmaputra",
+"mouza_doc": "Bhangnamari",
+"matched_name": "Bhangnamari",
+"source": "GeoNames PPL",
+"union_geonames": "Bhangnamari",
+"match": "exact",
+"note": "",
+"in_window": "N252",
+"nearest_site": "N252",
+"nearest_km": 1.4,
+"nearest_class": "Depot / stockpile"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+88.555,
+26.335
+]
+},
+"properties": {
+"district": "Panchagarh",
+"upazila": "Panchagarh Sadar",
+"balu_mahal": "Karatoya group 3",
+"river": "Karatoya",
+"mouza_doc": "Panchagarh (JL 22)",
+"matched_name": "Panchagarh town",
+"source": "approximate",
+"union_geonames": "",
+"match": "town",
+"note": "",
+"in_window": "E010",
+"nearest_site": "E010",
+"nearest_km": 0.5,
+"nearest_class": "Bar loss"
+}
+},
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+89.1563,
+25.4999
+]
+},
+"properties": {
+"district": "Rangpur",
+"upazila": "Mithapukur",
+"balu_mahal": "Tarafsadi balu mahal",
+"river": "not stated (river class)",
+"mouza_doc": "Tarafsadi (JL 64)",
+"matched_name": "Taraf Sadi",
+"source": "GeoNames PPL",
+"union_geonames": "Milanpur",
+"match": "exact",
+"note": "run as N260; mouza holds a beel",
+"in_window": "N260",
+"nearest_site": "N260",
+"nearest_km": 1.2,
+"nearest_class": "No signal"
+}
+}
+]
+}

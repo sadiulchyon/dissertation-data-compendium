@@ -1,0 +1,46 @@
+TEST A  SY065 (3.6 km from Sharighat) against the reference wells, Feb-Apr median depth (m)
+  SY065 1990s 4.41 -> 2020-22 5.72 (change +1.31); SY087 4.45 -> 5.38 (change +0.93)
+  excess deepening at SY065 relative to SY087: +0.38 m (95% -1.36 to +2.18); years 9 and 2
+  SY065 1990s 3.69 -> 2020-22 5.72 (change +2.04); SY060 2.67 -> 3.42 (change +0.76)
+  excess deepening at SY065 relative to SY060: +1.28 m (95% -0.85 to +3.41); years 8 and 2
+  1990-1999 correlation SY065 with SY087: r = -0.54 (p = 0.21, n = 7); without 1994 (Feb-Apr median 0.28 m, an outlier): r = -0.54
+  1990-1999 correlation SY065 with SY060: r = 0.86 (p = 0.01, n = 7); without 1994 (Feb-Apr median 0.28 m, an outlier): r = 0.86
+  SY065 late years with >= 4 Feb-Apr readings: 2021 4.29, 2022 7.16
+  SY065 own record: 1965-1979 mean 5.23, 1980-1989 5.56, 1990-1999 4.00, 2020-2022 5.72
+  Sharighat SW251 dry-season level (Jan-Mar 10th percentile): 1990s 4.62 m, 2020-22 2.94 m (change -1.68 m)
+
+TEST C  Deep episodes by season: ratio of episode median to 1990s median (a change to feet gives c. 3.3 in every season)
+  SY061 1977-1984 vs 1985-2009: Feb-Apr 7.01/1.98=3.5; Jun-Jul 2.89/0.90=3.2; Aug-Sep 2.74/0.40=6.9; Nov-Dec 5.79/0.54=10.8
+  SY061 2010-2019 vs 1985-2009: Feb-Apr 5.68/1.98=2.9; Jun-Jul 1.60/0.90=1.8; Aug-Sep 0.72/0.40=1.8; Nov-Dec 2.60/0.54=4.9
+  SY062 2008-2016 vs 1980-1998: Feb-Apr 12.34/3.32=3.7; Jun-Jul 2.57/1.96=1.3; Aug-Sep 2.80/2.01=1.4; Nov-Dec 11.95/2.97=4.0
+  SY062 2019-2021 vs 1980-1998: Feb-Apr 6.05/3.32=1.8; Jun-Jul 6.10/1.96=3.1; Aug-Sep 5.90/2.01=2.9; Nov-Dec 10.12/2.97=3.4
+  SY066 2005-2009 vs 1996-2004: Feb-Apr 15.10/5.50=2.7; Jun-Jul 11.08/4.62=2.4; Aug-Sep 9.55/4.58=2.1; Nov-Dec 7.05/5.30=1.3
+  Week-to-week flips (consecutive readings <= 10 days apart whose ratio lies within 2.8 to 3.8):
+    SY061: 5 flips in 5 years [1965, 1968, 1977, 1978, 2017]
+    SY062: 9 flips in 6 years [2009, 2010, 2011, 2012, 2013, 2014]
+    SY066: 1 flips in 1 years [1985]
+    SY065: 2 flips in 2 years [1993, 2021]
+
+TEST B  Deep-reading years against the gauge (deep = Feb-Apr median > 1.5 x the well's 1990-1999 median)
+  SY061 (1.2 km from SW251): years paired 41 (1975 to 2020); 1990s median 2.05 m
+    deep years: [1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1989, 2005, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
+    gauge dry-season level in deep years 4.28 m, in other years 4.54 m
+    Spearman well depth vs gauge level: as recorded rho = -0.20 (p = 0.218); deep years / 3.28: rho = +0.13 (p = 0.427)   [river-driven deepening gives a strong negative rho]
+    well (deep years / 3.28) referenced to SY087 (1990s fit r = 0.54, n = 9): residual vs gauge rho = +0.59 (p = 0.002, n = 25); mean residual 2015 on -0.68 m (n = 5)
+    well (deep years / 3.28) referenced to SY060 (1990s fit r = 0.72, n = 8): residual vs gauge rho = +0.38 (p = 0.060, n = 25); mean residual 2015 on -0.51 m (n = 6)
+  SY062 (4.0 km from SW233A): years paired 15 (1997 to 2020); 1990s median 3.25 m
+    deep years: [2008, 2009, 2010, 2011, 2013, 2014, 2015, 2020]
+    gauge dry-season level in deep years 6.42 m, in other years 6.48 m
+    Spearman well depth vs gauge level: as recorded rho = +0.19 (p = 0.503); deep years / 3.28: rho = +0.24 (p = 0.379)   [river-driven deepening gives a strong negative rho]
+  SY066 (1.6 km from SW233A): years paired 4 (1998 to 2009); 1990s median 5.61 m
+    deep years: [2009]
+    gauge dry-season level in deep years 6.75 m, in other years 7.42 m
+    Spearman well depth vs gauge level: as recorded rho = -1.00 (p = 0.000); deep years / 3.28: rho = +0.20 (p = 0.800)   [river-driven deepening gives a strong negative rho]
+  SY065 (3.6 km from SW251): years paired 27 (1975 to 2022); 1990s median 4.12 m
+    deep years: [2022]
+    gauge dry-season level in deep years 2.84 m, in other years 4.57 m
+    Spearman well depth vs gauge level: as recorded rho = -0.16 (p = 0.434); deep years / 3.28: rho = -0.16 (p = 0.434)   [river-driven deepening gives a strong negative rho]
+    well (deep years / 3.28) referenced to SY087 (1990s fit r = -0.69, n = 9): residual vs gauge rho = -0.53 (p = 0.096, n = 11); mean residual 2015 on +2.64 m (n = 2)
+    well (deep years / 3.28) referenced to SY060 (1990s fit r = 0.54, n = 8): residual vs gauge rho = -0.22 (p = 0.533, n = 10); mean residual 2015 on +1.18 m (n = 2)
+
+Gauge lowering phases (Section 6B.4.2): Sharighat steep 2017-2021 (onset 2013); Jaflong Spill ramp from 2017.

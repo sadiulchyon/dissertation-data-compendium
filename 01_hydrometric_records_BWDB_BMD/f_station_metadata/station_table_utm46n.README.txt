@@ -1,0 +1,1 @@
+# source: chapter-2/data_derived/src/Stations.gpkg (BWDB metadata) and chapter-6/data_source/station_coordinates.csv; UTM via pyproj EPSG:32646; built 2026-10-21 (Jim C125)

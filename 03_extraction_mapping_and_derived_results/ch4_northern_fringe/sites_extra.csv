@@ -1,0 +1,265 @@
+site_id,n_rec,lon,lat,window_m,extent_m,sector,admin0,admin1,dist_border_km,zone,intensity_max,setting,desc_years,rids,names,west,east,south,north
+N01,0,91.25,25.2,3500,,S5,BGD,Sylhet,,,,,,,Jadukata at Laurergarh (Tahirpur),91.23263,91.26737,25.18428,25.21572
+N02,0,89.515,25.935,3500,,S2,BGD,Rangpur,,,,,,,Dharla at Kurigram bridge,89.49752,89.53248,25.91928,25.95072
+N03,0,89.47,25.995,3500,,S2,BGD,Rangpur,,,,,,,Dharla at Mogolhat,89.45251,89.48749,25.97928,26.01072
+N04,0,91.754,25.169,3000,,S6,BGD,Sylhet,,,,,,,Dhalai at Bholaganj (Sada Pathor),91.73911,91.76889,25.15553,25.18247
+N05,0,90.663,25.135,4000,,S4,BGD,Mymensingh,,,,,,,Someshwari at Durgapur (check on Chapter 6),90.64315,90.68285,25.11703,25.15297
+N06,0,91.755,25.125,4000,,S6,BGD,Sylhet,,,,,,,Dhalai below Bholaganj (Companiganj),91.73516,91.77484,25.10703,25.14297
+N07,0,90.659,25.172,3500,,S4,BGD,Mymensingh,,,,,,,Someshwari at Bijoypur (above Durgapur),90.64163,90.67637,25.15628,25.18772
+N08,0,91.236,25.14,3500,,S5,BGD,Sylhet,,,,,,,Jadukata-Rakti confluence (Miyarchor),91.21863,91.25337,25.12428,25.15572
+N09,0,91.272,25.122,3500,,S5,BGD,Sylhet,,,,,,,Rakti at Shaktiarkhola (Tahirpur),91.25464,91.28936,25.10628,25.13772
+N10,0,88.41,26.63,3500,,S1,BGD,Rangpur,,,,,,,Mahananda at Banglabandha,88.39241,88.42759,26.61428,26.64572
+N11,0,91.665,25.11,3500,,S6,BGD,Sylhet,,,,,,,Chela below the border (Dowarabazar),91.64764,91.68236,25.09428,25.12572
+N12,0,90.89,25.158,3500,,S4,BGD,Mymensingh,,,,,,,Mahadeo at Patlaban (Kalmakanda),90.87263,90.90737,25.14228,25.17372
+N13,0,89.65,26.205,3500,,S2,BGD,Rangpur,,,,,,,Dudhkumar at Balabhut (Bhurungamari),89.63248,89.66752,26.18928,26.22072
+N14,0,91.07,25.183,4000,,S5,BGD,Sylhet,,,,,,,Bagli border streams (Tahirpur),91.05015,91.08985,25.16503,25.20097
+N15,0,91.632,25.163,3500,,S6,IND,Meghalaya,,,,,,,Chela (Umiam) above the border at Dalia–Kalatek (India),91.61463,91.64937,25.14728,25.17872
+N16,0,91.39,25.183,3500,,S5,IND,Meghalaya,,,,,,,"Dolura river sand fan above the border at Balat–Khakorkora (India); first window too far west, rerun",91.37263,91.40737,25.16728,25.19872
+N17,0,88.975,26.225,4000,,S1,BGD,Rangpur,,,,,,,"Teesta entry at Khoga Kharibari, Dimla (braided control above the barrage)",88.95497,88.99503,26.20703,26.24297
+N18,0,89.832,26.045,3500,,S2,IND,Assam,,,,,,,"Gangadhar (Sankosh) at Berbhangi, Kurigram border",89.8145,89.8495,26.02928,26.06072
+N19,0,92.022,25.174,2000,,S6,BGD,Sylhet,,,,,,,Jaflong–Tamabil stone crusher and stockpile yards,92.01207,92.03193,25.16502,25.18298
+N20,0,91.679,25.047,2000,,S6,BGD,Sylhet,,,,,,,Chhatak stone and sand depots (Piyain–Surma confluence),91.66908,91.68892,25.03802,25.05598
+N21,0,91.798,25.057,2000,,S6,BGD,Sylhet,,,,,,,Sylhet Hi-Tech Park and sand-filled land (Companiganj road),91.78808,91.80792,25.04802,25.06598
+N22,0,90.405,24.765,3500,,S4,BGD,Mymensingh,,,,,,,Old Brahmaputra at Mymensingh city,90.38769,90.42231,24.74928,24.78072
+N23,0,91.754,25.141,2000,,S6,BGD,Sylhet,,,,,,,Bholaganj stone crusher yards (Dhalai west bank),91.74408,91.76392,25.13202,25.14998
+N24,0,89.445,25.785,3500,,S2,BGD,Rangpur,,,,,,,Teesta at the Kaunia bridges (Rangpur–Lalmonirhat),89.42754,89.46246,25.76928,25.80072
+N25,0,91.668,24.6265,2000,,S6,BGD,Sylhet,,,,,,,"Srihatta Economic Zone sand fill (Sherpur, Moulvibazar)",91.65812,91.67788,24.61752,24.63548
+N26,0,90.69,25.095,3500,,S4,BGD,Mymensingh,,,,,,,Someshwari below Durgapur (Shibganj to Bhanga bridge),90.67264,90.70736,25.07928,25.11072
+N27,0,92.073,25.185,2000,,S6,BGD,Sylhet,,,,,,,Sreepur stone quarry on the Rangpani (Jaintiapur border),92.06307,92.08293,25.17602,25.19398
+N28,0,89.93,24.789,2000,,S3,BGD,Mymensingh,,,,,,,Jamalpur Economic Zone sand fill,89.92011,89.93989,24.78002,24.79798
+N29,0,89.863,25.285,2000,,S2,BGD,Mymensingh,,,,,,,"Dhanua-Kamalpur land port sand fill (Bakshiganj, Jamalpur)",89.85307,89.87293,25.27602,25.29398
+N30,0,90.219,25.198,2000,,S3,BGD,Mymensingh,,,,,,,"Nakugaon land port stone yards and Bhogai entry (Nalitabari, Sherpur)",90.20907,90.22893,25.18902,25.20698
+N31,0,88.745,26.095,3500,,S1,BGD,Rangpur,,,,,,,Karatoya at Debiganj (Panchagarh),88.7275,88.7625,26.07928,26.11072
+N32,0,89.78,26.104,2000,,S2,BGD,Rangpur,,,,,,,"Sonahat land port stone yards (Bhurungamari, Kurigram)",89.77,89.79,26.09502,26.11298
+N33,0,90.33,25.192,2000,,S4,BGD,Mymensingh,,,,,,,Koraitoli–Gobrakura coal depot and border quarries (Haluaghat),90.32007,90.33993,25.18302,25.20098
+N34,0,91.888,25.172,2500,,S6,BGD,Sylhet,,,,,,,Bisnakandi floodplain stone pits (Goainghat),91.87559,91.90041,25.16077,25.18323
+N35,0,91.178,25.198,2500,,S5,BGD,Sylhet,,,,,,,Tekerghat limestone quarry lakes and border quarries (Tahirpur),91.16559,91.19041,25.18677,25.20923
+N36,0,88.412,26.625,2000,,S1,BGD,Rangpur,,,,,,,Banglabandha land port stone stockpiles along the highway (Tetulia),88.40195,88.42205,26.61602,26.63398
+N37,0,88.865,25.858,2000,,S1,BGD,Rangpur,,,,,,,Uttara EPZ sand-filled industrial land (Nilphamari),88.85502,88.87498,25.84902,25.86698
+N38,0,88.418,26.57,2500,,S1,BGD,Rangpur,,,,,,,Tetulia border pit field at Chekarmari (Mahananda floodplain),88.40545,88.43055,26.55877,26.58123
+N39,0,91.619,25.195,2500,,S6,IND,Meghalaya,,,,,,,Lafarge Umiam limestone mine at Nongtrai (feeds the Chhatak cement plant),91.60659,91.63141,25.18377,25.20623
+N40,0,92.014,25.197,3500,,S6,IND,Meghalaya,,,,,,,Umngot (Piyain) at Shnongpdeng–Dawki above Jaflong,91.99663,92.03137,25.18128,25.21272
+N41,0,90.757,24.895,2500,,S4,BGD,Mymensingh,,,,,,,University of Netrokona sand-filled campus,90.74462,90.76938,24.88377,24.90623
+N42,0,91.648,25.034,2000,,S6,BGD,Sylhet,,,,,,,Lafarge Surma cement plant and limestone yard (Chhatak),91.63809,91.65791,25.02502,25.04298
+N43,0,91.3897,24.9724,2000,,S5,BGD,Sylhet,,,,,,,Sunamganj Medical College on filled haor land,91.37979,91.39961,24.96342,24.98138
+N44,0,91.854,24.991,2000,,S6,BGD,Sylhet,,,,,,,"Salutikar stone and sand landing ghat (Goyain, Sylhet)",91.84409,91.86391,24.98202,24.99998
+N45,0,90.645,25.198,3500,,S4,IND,Meghalaya,,,,,,,Simsang (upper Someshwari) at Baghmara,90.62763,90.66237,25.18228,25.21372
+N46,0,89.255,25.873,3500,,S1,BGD,Rangpur,,,,,,,Teesta at the Mahipur bridge (Gangachara),89.23753,89.27247,25.85728,25.88872
+N47,0,91.771,25.158,2000,,S6,BGD,Sylhet,,,,,,,Kalairag stone yards on the Dhalai east bank (Bholaganj),91.76108,91.78092,25.14902,25.16698
+N48,0,89.935,24.965,3500,,S3,BGD,Mymensingh,,,,,,,Old Brahmaputra above Jamalpur town,89.91766,89.95234,24.94928,24.98072
+N49,0,88.405,26.665,3000,,S1,IND,West Bengal,,,,,,,Mahananda at Siliguri-Fulbari (India),88.38992,88.42008,26.65153,26.67847
+N50,0,88.59,26.74,4000,,S1,IND,West Bengal,,,,,,,Teesta below the Gajoldoba barrage (India),88.56988,88.61012,26.72203,26.75797
+N51,0,88.75,26.52,4000,,S1,IND,West Bengal,,,,,,,Teesta at Jalpaiguri (India),88.72992,88.77008,26.50203,26.53797
+N52,0,88.875,26.315,4000,,S1,IND,West Bengal,,,,,,,Teesta at Mekhliganj (India),88.85496,88.89504,26.29703,26.33297
+N53,0,89.055,26.17,4000,,S1,BGD,Rangpur,,,,,,,Teesta Barrage at Dalia,89.03498,89.07502,26.15203,26.18797
+N54,0,89.665,25.795,4000,,S2,BGD,Rangpur,,,,,,,Dharla below the Kurigram bridge,89.64505,89.68495,25.77703,25.81297
+N55,0,91.768,25.208,3000,,S6,IND,Meghalaya,,,,,,,Dhalai (Umiam) gorge above Bholaganj (India),91.75311,91.78289,25.19453,25.22147
+N56,0,91.87,24.887,3500,,S6,BGD,Sylhet,,,,,,,Surma at Sylhet city,91.85267,91.88733,24.87128,24.90272
+N57,0,91.425,25.08,3500,,S5,BGD,Sylhet,,,,,,,Surma at Sunamganj town,91.40764,91.44236,25.06428,25.09572
+N58,0,91.676,25.137,2000,,S6,BGD,Sylhet,,,,,,,Ichamati border fan (Companiganj),91.66608,91.68592,25.12802,25.14598
+N59,0,88.47,26.86,4000,,S1,IND,West Bengal,,,,,,,Teesta below the Sevoke gorge (India),88.44986,88.49014,26.84203,26.87797
+N60,0,88.735,26.855,4000,,S1,IND,West Bengal,,,,,,,"Mal river at Malbazar (Dooars, India)",88.71486,88.75514,26.83703,26.87297
+N61,0,88.955,26.84,4000,,S1,IND,West Bengal,,,,,,,"Diana river at the NH17 bridge (Dooars, India)",88.93486,88.97514,26.82203,26.85797
+N62,0,89.435,26.31,4000,,S2,IND,West Bengal,,,,,,,Torsa at Cooch Behar (India),89.41496,89.45504,26.29203,26.32797
+N63,0,89.078,26.715,3000,,S1,IND,West Bengal,,,,,,,"Stone crushers and river-bed quarry at Ethelbari–Dangapara (Dooars, India)",89.06292,89.09308,26.70153,26.72847
+N64,0,88.37,26.705,3000,,S1,IND,West Bengal,,,,,,,Balason–Mahananda confluence at Siliguri (India),88.35492,88.38508,26.69153,26.71847
+N65,0,92.37,25.17,4000,,S6,IND,Meghalaya,,,,,,,"Lumshnong limestone quarries and cement plants (Meghalaya, India)",92.35015,92.38985,25.15203,25.18797
+N66,0,92.265,24.885,2500,,S6,IND,Assam,,,,,,,"Jarapata quarry pits by the Sutarkandi land port (Assam, India)",92.25262,92.27738,24.87377,24.89623
+N67,0,89.7,25.56,4000,,S2,BGD,Rangpur,,,,,,,Brahmaputra at Chilmari,89.68008,89.71992,25.54203,25.57797
+N68,0,91.215,25.1,2500,,S5,BGD,Sylhet,,,,,,,Jadukata at Anwarpur ghat (Tahirpur),91.2026,91.2274,25.08877,25.11123
+N69,0,91.718,25.142,2500,,S6,BGD,Sylhet,,,,,,,Shah Arfin Tila stone pits (Companiganj),91.7056,91.7304,25.13077,25.15323
+N70,0,92.405,25.21,3000,,S6,IND,Meghalaya,,,,,,,"South Khliehjari limestone mine (Meghalaya, India)",92.39011,92.41989,25.19653,25.22347
+N71,0,91.705,25.258,3500,,S6,IND,Meghalaya,,,,,,,"Mawmluh limestone quarry at Sohra (Meghalaya, India)",91.68762,91.72238,25.24228,25.27372
+N72,0,89.965,25.69,4000,,S3,IND,Meghalaya,,,,,,,"Stone quarries and crushers at Dilnapara–Tangoan (West Garo Hills, India)",89.94506,89.98494,25.67203,25.70797
+N73,0,88.915,26.765,4000,,S1,IND,West Bengal,,,,,,,"Diana river sand and stone collection at Dhumpara (Dooars, India)",88.89488,88.93512,26.74703,26.78297
+N74,0,88.31,26.755,4000,,S1,IND,West Bengal,,,,,,,"Balason at Lalsara sand processing plant (Siliguri, India)",88.28988,88.33012,26.73703,26.77297
+N75,0,88.55,26.87,3500,,S1,IND,West Bengal,,,,,,,"Leesh river at Bagrakot (Dooars, India)",88.53238,88.56762,26.85428,26.88572
+N76,0,88.61,26.86,3500,,S1,IND,West Bengal,,,,,,,"Ghish river at Oodlabari (Dooars, India)",88.59238,88.62762,26.84428,26.87572
+N77,0,89.38,26.855,4000,,S2,IND,West Bengal,,,,,,,"Torsa at Phuentsholing–Jaigaon (Bhutan border, India)",89.35986,89.40014,26.83703,26.87297
+N78,0,89.755,26.715,4000,,S2,IND,Assam,,,,,,,Sankosh at Lamichey–Majathang stone crusher (Bhutan border),89.73489,89.77511,26.69703,26.73297
+N79,0,88.745,25.724,3000,,S1,BGD,Rangpur,,,,,,,Atrai at Kushalpur balu mahal (Dinajpur),88.73004,88.75996,25.71053,25.73747
+N80,0,91.89,24.485,2500,,S6,BGD,Sylhet,,,,,,,Manu at Tarapasha balu mahal (Moulvibazar),91.87766,91.90234,24.47377,24.49623
+N81,0,90.65,25.01,3000,,S4,BGD,Mymensingh,,,,,,,Kangsa at Jhanjail balur ghat (Netrokona),90.63513,90.66487,24.99653,25.02347
+N82,0,89.85,26.49,4000,,S2,IND,Assam,,,,,,,Sankosh at Jaraguri stone crushers (Assam–West Bengal),89.82993,89.87007,26.47203,26.50797
+N83,0,89.312,26.745,4000,,S2,IND,West Bengal,,,,,,,"Torsa at Hasimara, main channel (Dooars, India)",89.29188,89.33212,26.72703,26.76297
+N84,0,88.932,26.397,3000,,S1,BGD,Rangpur,,,,,,,"Burimari land port stone yards (Patgram, Lalmonirhat)",88.91696,88.94704,26.38353,26.41047
+N85,0,88.469,26.485,3500,,S1,BGD,Rangpur,,,,,,,"Bhajanpur floodplain stone pits (Tetulia, Panchagarh)",88.45144,88.48656,26.46928,26.50072
+N86,0,89.17,26.842,5000,,S1,BTN,Samtse,,,,,,,"Gomtu–Pugli dolomite quarries (Samtse, Bhutan)",89.14483,89.19517,26.81954,26.86446
+N87,0,92.157,25.124,3000,,S6,BGD,Sylhet,,,,,,,Sand yard on the Borogang floodplain below Jaintiapur,92.14212,92.17188,25.11053,25.13747
+N88,0,91.87,24.96,4000,,S6,BGD,Sylhet,,,,,,,Osmani airport expansion fill and stone crusher yards (Sylhet),91.85018,91.88982,24.94203,24.97797
+N89,0,91.832,24.657,4000,,S6,BGD,Sylhet,,,,,,,Kushiyara at Balaganj with sand dump field,91.81223,91.85177,24.63903,24.67497
+N90,0,91.375,24.255,5000,,S5,BGD,Sylhet,,,,,,,Shahjibazar industrial land fills (Habiganj),91.35037,91.39963,24.23254,24.27746
+N91,0,91.5466,24.1499,3000,,S5,BGD,Sylhet,,,,,,,"Khowai at Rajar Bazar balu mahal (Chunarughat, Habiganj)",91.53183,91.56137,24.13643,24.16337
+N92,0,91.6805,24.6299,3000,,S6,BGD,Sylhet,,,,,,,Kushiyara at the Sherpur bridge sand landing (Sylhet–Moulvibazar),91.66568,91.69532,24.61643,24.64337
+N93,0,90.787,25.147,3000,,S4,BGD,Mymensingh,,,,,,,"Ganeshwari at Lengura stone dredging (Kalmakanda, Netrokona)",90.77211,90.80189,25.13353,25.16047
+N94,0,91.105,25.21,3000,,S5,IND,Meghalaya,,,,,,,"Cheragaon (Kalapani) stone quarry above Tahirpur border (Meghalaya, India)",91.09011,91.11989,25.19653,25.22347
+N95,0,92.355,25.228,3000,,S6,IND,Meghalaya,,,,,,,"Umbadoh–Wahiajer limestone quarries (Meghalaya, India)",92.3401,92.3699,25.21453,25.24147
+N96,0,91.368,25.222,3500,,S5,IND,Meghalaya,,,,,,,"Jadukata at Mailam above the Laurergarh border (Meghalaya, India)",91.35062,91.38538,25.20628,25.23772
+N97,0,91.79,24.952,3000,,S6,BGD,Sylhet,,,,,,,Sari-Goyain at Badaghat sand landing ghats (Sylhet),91.77514,91.80486,24.93853,24.96547
+N98,0,91.732,24.916,3000,,S6,BGD,Sylhet,,,,,,,Surma at Lamakazi bridge sand landing (Sylhet),91.71714,91.74686,24.90253,24.92947
+N99,0,91.807,24.909,3000,,S6,BGD,Sylhet,,,,,,,Surma at Kandigaon–Kumargaon sand landing (Sylhet),91.79214,91.82186,24.89553,24.92247
+N100,0,91.6996,24.9301,3000,,S6,BGD,Sylhet,,,,,,,Surma at Gobindaganj–Chhatak sand depots (Sunamganj),91.68474,91.71446,24.91663,24.94357
+N101,0,91.2916,24.9862,3500,,S5,BGD,Sylhet,,,,,,,Surma at Haripur–Sujatpur sand depots (Sunamganj),91.27426,91.30894,24.97048,25.00192
+N102,0,90.545,25.022,3000,,S4,BGD,Mymensingh,,,,,,,Kangsa point bars east of Purbadhala sand pumping (Netrokona),90.53013,90.55987,25.00853,25.03547
+N103,0,91.9159,24.8746,3000,,S6,BGD,Sylhet,,,,,,,Surma at Muktirchok sand depots (Sylhet),91.90105,91.93075,24.86113,24.88807
+N104,0,89.4119,25.8239,3500,,S2,BGD,Rangpur,,,,,,,Teesta at Rajpur (Lalmonirhat Sadar) illegal extraction points,89.39444,89.42936,25.80818,25.83962
+N105,0,89.3748,25.8526,3000,,S2,BGD,Rangpur,,,,,,,Teesta at Khuniagachh (Lalmonirhat Sadar),89.35983,89.38977,25.83913,25.86607
+N106,0,89.3243,25.8734,3000,,S2,BGD,Rangpur,,,,,,,Teesta at Mahishkhocha-Gobardhan (Aditmari),89.30932,89.33928,25.85993,25.88687
+N107,0,88.925,26.3,4000,,S1,BGD,Rangpur,,,,,,,Teesta at Dahagram (Patgram),88.90496,88.94504,26.28203,26.31797
+N108,0,89.7395,26.1311,3000,,S2,BGD,Rangpur,,,,,,,Dudhkumar at Char Bhurungamari dredgers,89.72449,89.75451,26.11763,26.14457
+N109,0,89.825,24.895,2500,,S2,BGD,Mymensingh,,,,,,,Katakhali west of Beltail Bridge (Melandaha),89.81262,89.83738,24.88377,24.90623
+N110,0,89.8149,24.7404,3500,,S2,BGD,Mymensingh,,,,,,,Jamuna chars at Sarishabari east-bank embankment,89.79759,89.83221,24.72468,24.75612
+N111,0,89.645,24.9,4000,,S2,BGD,Mymensingh,,,,,,,Jamuna at Madarganj cropland dredging,89.62519,89.66481,24.88203,24.91797
+N112,0,90.5191,24.5199,3500,,S4,BGD,Mymensingh,,,,,,,Old Brahmaputra at Char Madakhali dredging site (Trishal),90.50182,90.53638,24.50418,24.53562
+N113,0,91.4692,24.2826,3000,,S5,BGD,Sylhet,,,,,,,Khowai at Shayestaganj embankment breach,91.45442,91.48398,24.26913,24.29607
+N114,0,90.0,25.24,2500,,S3,BGD,Mymensingh,,,,,,,Kalghosha in Kangsa union (Jhenaigati),89.98759,90.01241,25.22877,25.25123
+N115,0,90.515,25.15,3000,,S4,BGD,Mymensingh,,,,,,,Barak-Netai at Ghoshgaon sand mouza (Dhobaura-Haluaghat),90.50011,90.52989,25.13653,25.16347
+N116,0,90.1985,25.0883,3000,,S3,BGD,Mymensingh,,,,,,,Bhogai at Nalitabari,90.18362,90.21338,25.07483,25.10177
+N117,0,92.3805,24.8644,3500,,S6,BGD,Sylhet,,,,,,,Surma at Zakiganj dredging,92.36317,92.39783,24.84868,24.88012
+N118,0,91.653,24.332,3000,,S6,BGD,Sylhet,,,,,,,Bhunabir silica sand from farmland and hill creeks (Sreemangal),91.63821,91.66779,24.31853,24.34547
+N119,0,91.867,24.224,3000,,S6,BGD,Sylhet,,,,,,,Islampur silica sand and hill cutting (Kamalganj),91.85222,91.88178,24.21053,24.23747
+N120,0,91.52,24.2,3000,,S5,BGD,Sylhet,,,,,,,Chunarughat hill-stream silica sand,91.50523,91.53477,24.18653,24.21347
+N121,0,88.4327,26.527,3000,,S1,BGD,Rangpur,,,,,,,Inventory: Dahuk River (1 records outside windows),88.41764,88.44776,26.51353,26.54047
+N122,0,89.8079,25.0801,3000,,S2,BGD,Dhaka,,,,,,,Inventory: Sand Depot (1 records outside windows),89.79302,89.82278,25.06663,25.09357
+N123,0,89.8151,25.4559,2000,,S2,IND,Assam,,,,,,,Inventory: Floodplain mining? (1 records outside windows),89.80515,89.82505,25.44692,25.46488
+N124,0,89.9373,25.2513,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Karnaijohra Khal (1 records outside windows),89.9224,89.9522,25.23783,25.26477
+N125,0,89.9447,25.2979,3000,,S3,IND,Meghalaya,,,,,,,Inventory: Karnaijohra Khal (1 records outside windows),89.9298,89.9596,25.28443,25.31137
+N126,0,90.0053,25.1993,2000,,S3,BGD,Dhaka,,,,,,,Inventory: Chilakhali River (1 records outside windows),89.99537,90.01523,25.19032,25.20828
+N127,0,90.0072,24.8826,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Sand Deposit (1 records outside windows),89.99235,90.02205,24.86913,24.89607
+N128,0,90.1067,25.2109,4500,,S3,IND,Meghalaya,,,,,,,Inventory: Malijhi River; Malijhi river (3 records outside windows),90.08436,90.12904,25.19069,25.23111
+N129,0,90.1555,25.1689,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Chel Akhali (1 records outside windows),90.14061,90.17039,25.15543,25.18237
+N130,0,90.1707,25.1966,3000,,S3,IND,Meghalaya,,,,,,,Inventory: Chel Akhali; Chel Akhali River (2 records outside windows),90.15581,90.18559,25.18313,25.21007
+N131,0,90.1964,25.1261,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Boghai River (1 records outside windows),90.18152,90.21128,25.11263,25.13957
+N132,0,90.1977,25.0469,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Bhogai (2 records outside windows),90.18283,90.21257,25.03343,25.06037
+N133,0,90.2046,25.164,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Bhogai River (1 records outside windows),90.18971,90.21949,25.15053,25.17747
+N134,0,90.2326,24.8731,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Sand Deposit (1 records outside windows),90.21775,90.24745,24.85963,24.88657
+N135,0,90.2386,25.0197,3000,,S3,BGD,Dhaka,,,,,,,Inventory: Bhogai (1 records outside windows),90.22373,90.25347,25.00623,25.03317
+N136,0,90.2882,24.994,5000,,S3,BGD,Dhaka,,,,,,,Inventory: Bhogai; Bhogai River (6 records outside windows),90.26342,90.31298,24.97154,25.01646
+N137,0,90.366,25.0035,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Sand Deposit (1 records outside windows),90.35113,90.38087,24.99003,25.01697
+N138,0,90.3984,24.9931,2000,,S4,BGD,Dhaka,,,,,,,Inventory: Sand Deposit (2 records outside windows),90.38849,90.40831,24.98412,25.00208
+N139,0,90.4457,25.1107,3000,,S4,BGD,Dhaka,,,,,,,Inventory: All Sand here used for Agriculture or building (1 records outside windows),90.43082,90.46058,25.09723,25.12417
+N140,0,90.4691,25.0094,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Sand Deposit; Sand Deposits (2 records outside windows),90.45423,90.48397,24.99593,25.02287
+N141,0,90.5164,25.0245,2000,,S4,BGD,Dhaka,,,,,,,Inventory: Sand Deposit (3 records outside windows),90.50649,90.52631,25.01552,25.03348
+N142,0,90.5934,25.0342,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Ship Depot (1 records outside windows),90.57853,90.60827,25.02073,25.04767
+N143,0,90.6294,25.0358,2500,,S4,BGD,Dhaka,,,,,,,Inventory: Ships (1 records outside windows),90.61701,90.64179,25.02457,25.04703
+N144,0,90.6423,25.0731,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Ships (1 records outside windows),90.62742,90.65718,25.05963,25.08657
+N145,0,90.7001,24.9935,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Kangsa River (1 records outside windows),90.68523,90.71497,24.98003,25.00697
+N146,0,90.7067,25.1313,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Goneshwari River (1 records outside windows),90.69182,90.72158,25.11783,25.14477
+N147,0,90.731,25.0894,4000,,S4,BGD,Dhaka,,,,,,,Inventory: Someshwari River (2 records outside windows),90.71116,90.75084,25.07143,25.10737
+N148,0,90.7465,25.1343,4000,,S4,BGD,Dhaka,,,,,,,Inventory: Goneshwari Floodplain; Someswhari River; someshwari River; s (4 records outside windows),90.72665,90.76635,25.11633,25.15227
+N149,0,90.7493,25.0554,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Shaneswar River (2 records outside windows),90.73443,90.76417,25.04193,25.06887
+N150,0,90.7517,24.9975,5000,,S4,BGD,Dhaka,,,,,,,Inventory: Gunai River (3 records outside windows),90.72692,90.77648,24.97504,25.01996
+N151,0,90.7942,25.0942,5000,,S4,BGD,Dhaka,,,,,,,Inventory: Nodi-Someswhari River; Someshwari River; Someswhari River (5 records outside windows),90.7694,90.819,25.07174,25.11666
+N152,0,90.7983,25.0256,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Gunai River (1 records outside windows),90.78343,90.81317,25.01213,25.03907
+N153,0,90.8198,25.1215,2000,,S4,BGD,Dhaka,,,,,,,Inventory: Goneshwari River (1 records outside windows),90.80988,90.82972,25.11252,25.13048
+N154,0,90.8331,25.0009,4000,,S4,BGD,Dhaka,,,,,,,Inventory: Brick mill?; Gunai River; Gunai river; Small River; Small Ri (10 records outside windows),90.81328,90.85292,24.98293,25.01887
+N155,0,90.8341,24.9544,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Ships (1 records outside windows),90.81924,90.84896,24.94093,24.96787
+N156,0,90.8354,25.0639,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Gunai River; Nodi Floodplain; Nodi River; Nodi-Someshwari Ri (10 records outside windows),90.82052,90.85028,25.05043,25.07737
+N157,0,90.8383,25.1531,3000,,S4,IND,Meghalaya,,,,,,,Inventory: Small River (2 records outside windows),90.82341,90.85319,25.13963,25.16657
+N158,0,90.9007,24.9874,3000,,S4,BGD,Dhaka,,,,,,,Inventory: Ship Depot (1 records outside windows),90.88583,90.91557,24.97393,25.00087
+N159,0,90.9164,25.1163,5000,,S4,BGD,Dhaka,,,,,,,Inventory: Patlaban (7 records outside windows),90.8916,90.9412,25.09384,25.13876
+N160,0,90.951,25.0146,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Small River (1 records outside windows),90.93613,90.96587,25.00113,25.02807
+N161,0,90.9987,25.0576,3500,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (2 records outside windows),90.98135,91.01605,25.04188,25.07332
+N162,0,91.0387,25.0616,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (1 records outside windows),91.02382,91.05358,25.04813,25.07507
+N163,0,91.079,25.019,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (2 records outside windows),91.06413,91.09387,25.00553,25.03247
+N164,0,91.1025,25.0775,5000,,S5,BGD,Sylhet,,,,,,,Inventory: Boat Station; Sand Deposit; Sand deposits or Natural?; Ships (6 records outside windows),91.0777,91.1273,25.05504,25.09996
+N165,0,91.1118,24.9107,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (1 records outside windows),91.09694,91.12666,24.89723,24.92417
+N166,0,91.1273,25.1704,5000,,S5,BGD,Sylhet,,,,,,,Inventory: Lakmachora; Lots of Ships; Sand Deposit; Ship Depot; Ships (11 records outside windows),91.10249,91.15211,25.14794,25.19286
+N167,0,91.1321,24.9675,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposit (1 records outside windows),91.11724,91.14696,24.95403,24.98097
+N168,0,91.1442,25.0427,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (3 records outside windows),91.12933,91.15907,25.02923,25.05617
+N169,0,91.1628,24.8768,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Multiple Ship Depots (1 records outside windows),91.14795,91.17765,24.86333,24.89027
+N170,0,91.1802,24.9731,5000,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposit; Ship Depot; What are these? (6 records outside windows),91.15543,91.20497,24.95064,24.99556
+N171,0,91.2434,24.9988,4500,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposits; Ship Depot; Ship Depot and Sand Deposits (4 records outside windows),91.2211,91.2657,24.97859,25.01901
+N172,0,91.2526,25.0928,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Ship Depot (1 records outside windows),91.23772,91.26748,25.07933,25.10627
+N173,0,91.3262,24.9976,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposits (1 records outside windows),91.31133,91.34107,24.98413,25.01107
+N174,0,91.3731,25.0415,4500,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposits; Ship Depot; Ship Depot Sand deposits (3 records outside windows),91.35079,91.39541,25.02129,25.06171
+N175,0,91.3865,25.1622,2000,,S5,IND,Meghalaya,,,,,,,Inventory: Wah Umngi (1 records outside windows),91.37658,91.39642,25.15322,25.17118
+N176,0,91.3873,25.1272,2000,,S5,BGD,Sylhet,,,,,,,Inventory: Ships Parked (1 records outside windows),91.37738,91.39722,25.11822,25.13618
+N177,0,91.3898,25.0874,2500,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposit; Ship Depot; This General region 5/ (5 records outside windows),91.3774,91.4022,25.07617,25.09863
+N178,0,91.4748,25.0798,4500,,S5,BGD,Sylhet,,,,,,,Inventory: Brick works?; Brickworks?; Sand deposit (4 records outside windows),91.45248,91.49712,25.05959,25.10001
+N179,0,91.5221,25.0697,3000,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposits (1 records outside windows),91.50722,91.53698,25.05623,25.08317
+N180,0,91.5569,25.0351,4000,,S5,BGD,Sylhet,,,,,,,Inventory: Sand Deposits; sand deposits (2 records outside windows),91.53707,91.57673,25.01713,25.05307
+N181,0,91.6067,25.0126,4500,,S6,BGD,Sylhet,,,,,,,Inventory: Sand Deposit; Sand Deposits (3 records outside windows),91.5844,91.629,24.99239,25.03281
+N182,0,91.6423,25.0187,2000,,S6,BGD,Sylhet,,,,,,,Inventory: ship Depot and sand deposit (1 records outside windows),91.63239,91.65221,25.00972,25.02768
+N183,0,91.6952,25.0626,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Floodplain mined out?; Sand Deposit; Ship Deposit (3 records outside windows),91.68528,91.70512,25.05362,25.07158
+N184,0,91.7018,25.0982,2500,,S6,BGD,Sylhet,,,,,,,Inventory: Jadukta River (2 records outside windows),91.6894,91.7142,25.08697,25.10943
+N185,0,91.7525,24.9061,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Ship Depot (1 records outside windows),91.7426,91.7624,24.89712,24.91508
+N186,0,91.7675,25.052,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Ship depot (1 records outside windows),91.75263,91.78237,25.03853,25.06547
+N187,0,91.776,25.0875,4000,,S6,BGD,Sylhet,,,,,,,Inventory: Shada Pathor; Ship Depot; Trucks; Trucks Traffic (7 records outside windows),91.75616,91.79584,25.06953,25.10547
+N188,0,91.8246,25.1734,2500,,S6,IND,Meghalaya,,,,,,,Inventory: Floodplain miing or Flooding? (1 records outside windows),91.81219,91.83701,25.16217,25.18463
+N189,0,91.8267,24.9676,3500,,S6,BGD,Sylhet,,,,,,,Inventory: Sand Deposit; Sand Deposits; Sunken Ships Abandoned? (4 records outside windows),91.80936,91.84404,24.95188,24.98332
+N190,0,91.8453,25.1434,3000,,S6,BGD,Sylhet,,,,,,,Inventory: New facility since (1 records outside windows),91.83041,91.86019,25.12993,25.15687
+N191,0,91.9058,25.144,2500,,S6,BGD,Sylhet,,,,,,,Inventory: Bichnakandi Boat Station; Bisnakandi; Goyain; Sand Deposit (5 records outside windows),91.8934,91.9182,25.13277,25.15523
+N192,0,91.9224,25.1692,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Biskandi (1 records outside windows),91.90751,91.93729,25.15573,25.18267
+N193,0,91.9351,25.0235,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Sand Deposit (1 records outside windows),91.92519,91.94501,25.01452,25.03248
+N194,0,91.9841,25.0931,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Large Ship activity (1 records outside windows),91.97418,91.99402,25.08412,25.10208
+N195,0,92.0039,24.8572,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Ship Depot (1 records outside windows),91.98905,92.01875,24.84373,24.87067
+N196,0,92.0897,25.0903,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Ship Depot and Sand Deposit (1 records outside windows),92.07978,92.09962,25.08132,25.09928
+N197,0,92.1843,25.118,2000,,S6,BGD,Sylhet,,,,,,,Inventory: Shari-Goyain River (1 records outside windows),92.17438,92.19422,25.10902,25.12698
+N198,0,92.1932,24.8922,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Sand Deposit (1 records outside windows),92.17835,92.20805,24.87873,24.90567
+N199,0,92.2608,25.0041,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Ships (1 records outside windows),92.24593,92.27567,24.99063,25.01757
+N200,0,92.2973,25.0288,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Surma (1 records outside windows),92.28243,92.31217,25.01533,25.04227
+N201,0,92.3452,25.0593,3000,,S6,IND,Meghalaya,,,,,,,Inventory: Lubachhara River (1 records outside windows),92.33033,92.36007,25.04583,25.07277
+N202,0,92.401,24.9874,3000,,S6,BGD,Sylhet,,,,,,,Inventory: Sand Deposit (1 records outside windows),92.38613,92.41587,24.97393,25.00087
+N203,0,91.2749,25.1665,3000,,S5,BGD,Sylhet,,,,,,,Jadukata fan south edge below Laurergarh (reach screen),91.26001,91.28979,25.15303,25.17997
+N204,0,89.9039,26.7595,3000,,S2,BTN,Dagana,,,,,,,Bed and cleared banks on a foothill river at the Bhutan border (reach screen),89.88881,89.91899,26.74603,26.77297
+N205,0,90.9977,24.0355,3000,,S5,BGD,Brahmanbaria,,,,,,,Meghna at Ashuganj-Bahadurpur sand landing,90.98295,91.01245,24.02203,24.04897
+N206,0,90.64,24.37,3000,,S4,BGD,Kishoreganj,,,,,,,Old Brahmaputra at Jangalia-Char Kaona (Pakundia),90.62521,90.65479,24.35653,24.38347
+N207,0,90.6455,24.2999,3000,,S4,BGD,Kishoreganj,,,,,,,Old Brahmaputra at Char Mirzapur Chairmanbari ghat (Pakundia),90.63072,90.66028,24.28643,24.31337
+N208,0,89.519,24.503,3000,,S2,BGD,Sirajganj,,,,,,,Fuljor at Raiganj with highway sand fill,89.50419,89.53381,24.48953,24.51647
+N209,0,90.5771,23.9105,3000,,S4,BGD,Narsingdi,,,,,,,Sand landings on the river bank near Narsingdi (2025 imagery),90.56236,90.59184,23.89703,23.92397
+N210,0,90.5473,23.8295,3000,,S4,BGD,Narayanganj,,,,,,,Sand-filled plots beside the Shitalakshya (2025 imagery),90.53257,90.56203,23.81603,23.84297
+N211,0,90.6069,23.8295,3000,,S4,BGD,Narayanganj,,,,,,,Sand-filled plots east of the Shitalakshya (2025 imagery),90.59217,90.62163,23.81603,23.84297
+N212,0,90.5175,23.7485,3000,,S4,BGD,Narayanganj,,,,,,,Sand fill on the Shitalakshya bank at Demra (2025 imagery),90.50278,90.53222,23.73503,23.76197
+N213,0,89.7427,24.3425,3000,,S2,BGD,Sirajganj,,,,,,,Jamuna bank sand stockpiles (2025 imagery),89.72791,89.75749,24.32903,24.35597
+N214,0,89.8321,24.4235,3000,,S2,BGD,Tangail,,,,,,,Jamuna east bank sand stockpiles (2025 imagery),89.8173,89.8469,24.41003,24.43697
+N215,0,90.3089,23.7215,3000,,S4,BGD,Dhaka,,,,,,,Sand fill on the Turag floodplain at Aminbazar (2025 imagery),90.29418,90.32362,23.70803,23.73497
+N216,0,90.4403,24.7885,3000,,S4,BGD,Dhaka,,,,,,,Old Brahmaputra floodplain north of Mymensingh (new water outside the channel) (neighbour of N22; reach screen),90.42546,90.45514,24.77503,24.80197
+N217,0,90.4403,24.8155,3000,,S4,BGD,Dhaka,,,,,,,"Old Brahmaputra floodplain north of Mymensingh, upper (neighbour of N22; reach screen)",90.42545,90.45515,24.80203,24.82897
+N218,0,90.3807,24.7075,3000,,S4,BGD,Dhaka,,,,,,,Old Brahmaputra west of Mymensingh (neighbour of N22; reach screen),90.36587,90.39553,24.69403,24.72097
+N219,0,90.3807,24.7345,3000,,S4,BGD,Dhaka,,,,,,,"Old Brahmaputra west of Mymensingh, upper (neighbour of N22; reach screen)",90.36586,90.39554,24.72103,24.74797
+N220,0,90.4701,24.7615,3000,,S4,BGD,Dhaka,,,,,,,Old Brahmaputra floodplain east of Mymensingh (neighbour of N22; reach screen),90.45526,90.48494,24.74803,24.77497
+N221,0,88.7417,25.6795,3000,,S1,BGD,Rangpur,,,,,,,Atrai below Kushalpur (neighbour of N79; reach screen),88.72675,88.75665,25.66603,25.69297
+N222,0,88.7119,25.6795,3000,,S1,BGD,Rangpur,,,,,,,"Atrai below Kushalpur, west (neighbour of N79; reach screen)",88.69695,88.72685,25.66603,25.69297
+N223,0,88.7417,25.7605,3000,,S1,BGD,Rangpur,,,,,,,Atrai above Kushalpur (neighbour of N79; reach screen),88.72674,88.75666,25.74703,25.77397
+N224,0,89.8443,25.0045,3000,,S2,BGD,Dhaka,,,,,,,Old Brahmaputra below the E042 bar loss (neighbour of E042; reach screen),89.82943,89.85917,24.99103,25.01797
+N225,0,88.5927,26.3005,3000,,S1,BGD,Rangpur,,,,,,,Mahananda below the E010 bar loss (neighbour of E010; reach screen),88.57767,88.60773,26.28703,26.31397
+N226,0,88.5927,26.3275,3000,,S1,BGD,Rangpur,,,,,,,"Mahananda at the E010 bar loss, upper (neighbour of E010; reach screen)",88.57767,88.60773,26.31403,26.34097
+N227,0,90.0529,25.1665,3000,,S3,BGD,Dhaka,,,,,,,Sherpur river above the E050 dredging (neighbour of E050; reach screen),90.03801,90.06779,25.15303,25.17997
+N228,0,90.0827,25.1395,3000,,S3,BGD,Dhaka,,,,,,,Sherpur river beside the E050 dredging (neighbour of E050; reach screen),90.06782,90.09758,25.12603,25.15297
+N229,0,89.0099,26.3545,3000,,S1,BGD,Rangpur,,,,,,,Floodplain beside the E015 pit fields (neighbour of E015; reach screen),88.99486,89.02494,26.34103,26.36797
+N230,0,88.9205,26.4355,3000,,S1,IND,West Bengal,,,,,,,Floodplain beside the E013 pit fields (neighbour of E013; reach screen),88.90545,88.93555,26.42203,26.44897
+N231,0,89.1291,26.3005,3000,,S1,BGD,Rangpur,,,,,,,River beside the E016 bar loss (neighbour of E016; reach screen),89.11407,89.14413,26.28703,26.31397
+N232,0,90.5893,25.0855,3000,,S4,BGD,Dhaka,,,,,,,Someshwari-Kangsa channel above N144 (neighbour of N144; reach screen),90.57442,90.60418,25.07203,25.09897
+N233,0,89.9337,24.8965,3000,,S3,BGD,Dhaka,,,,,,,Old Brahmaputra beside the E046 dredging (neighbour of E046; reach screen),89.91884,89.94856,24.88303,24.90997
+N234,0,92.02,25.1535,3000,,S6,Bangladesh,Sylhet,,,,,,,Piyain below Jaflong (S2 screen),92.00511,92.03489,25.14003,25.16697
+N235,0,90.152,24.877,3000,,S3,BGD,Mymensingh,,,,,,,"Old Brahmaputra below Jamalpur, dredged-sand stockpile north bank (S3 gap screen; Mymensingh BIWTA spoil tender 2024)",90.13715,90.16685,24.86353,24.89047
+N236,0,90.121,24.875,3000,,S3,BGD,Mymensingh,,,,,,,Old Brahmaputra bars and bank stockpiles near Piyarpur (S3 gap screen),90.10615,90.13585,24.86153,24.88847
+N237,0,90.181,24.9,3000,,S3,BGD,Mymensingh,,,,,,,Old Brahmaputra with re-excavated loop channel (S3 gap screen),90.16614,90.19586,24.88653,24.91347
+N238,0,90.472,24.688,3000,,S4,BGD,Mymensingh,,,,,,,"Old Brahmaputra at Bhangnamari, Gauripur: BIWTA dredged-sand stockpile (Mymensingh tender 2024)",90.45717,90.48683,24.67453,24.70147
+N239,0,89.952,24.954,2500,,S3,BGD,Mymensingh,,,,,,,"Char Pakshimari balu mahal, Old Brahmaputra (Sherpur list: digging ongoing)",89.93961,89.96439,24.94277,24.96523
+N240,0,90.002,25.279,3000,,S3,BGD,Mymensingh,,,,,,,"Hill-foot stream on the Meghalaya border, Jhenaigati (S3 gap screen)",89.9871,90.0169,25.26553,25.29247
+N241,0,88.3854,25.8354,3000,,S1,BGD,Rangpur,,,,,,,"Tangon at Kastor, Pirganj (Thakurgaon balu mahal, khas 1433 BS)",88.37043,88.40037,25.82193,25.84887
+N242,0,89.0794,26.1139,3000,,S1,BGD,Rangpur,,,,,,,"Teesta at Bhendabari, Dimla (Nilphamari balu mahal list 2022)",89.06439,89.09441,26.10043,26.12737
+N243,0,89.0349,25.8293,3000,,S1,BGD,Rangpur,,,,,,,"Jamuneshwari at Chandkhana, Kishoreganj (Nilphamari balu mahal list 2022)",89.01993,89.04987,25.81583,25.84277
+N244,0,88.8771,26.0354,3000,,S1,BGD,Rangpur,,,,,,,"Deonai near Dubachhuri, Nilphamari Sadar (Nilphamari balu mahal list 2022)",88.8621,88.8921,26.02193,26.04887
+N245,0,89.996,24.9025,2500,,S3,BGD,Mymensingh,,,,,,,"Old Brahmaputra at Charjothartopur, Jamalpur (Jamalpur balu mahal list 2021)",89.98362,90.00838,24.89127,24.91373
+N246,0,90.1199,24.8699,3000,,S3,BGD,Mymensingh,,,,,,,"Old Brahmaputra at Narundi, Jamalpur (Jamalpur balu mahal list 2021)",90.10505,90.13475,24.85643,24.88337
+N247,0,89.8065,25.1335,3000,,S2,BGD,Mymensingh,,,,,,,"Brahmaputra-Jamuna at Goaler Char, Islampur (Jamalpur balu mahal list 2021)",89.79162,89.82138,25.12003,25.14697
+N248,0,90.0092,24.9844,2500,,S3,BGD,Mymensingh,,,,,,,Mrigi at Sherpur town (Sherpur balu mahal list),89.99681,90.02159,24.97317,24.99563
+N249,0,90.2027,25.1459,2500,,S3,BGD,Mymensingh,,,,,,,"Bhogai at Kerengapara-Phulpur, Nalitabari (Sherpur balu mahal list)",90.1903,90.2151,25.13467,25.15713
+N250,0,90.27,24.8602,3000,,S3,BGD,Mymensingh,,,,,,,Old Brahmaputra at Borer Char-Tarapur (Mymensingh BIWTA lots 2024),90.25515,90.28485,24.84673,24.87367
+N251,0,90.2765,24.8324,2500,,S3,BGD,Mymensingh,,,,,,,Old Brahmaputra at Char Dhari Kushtia (Mymensingh BIWTA lots 2024),90.26413,90.28887,24.82117,24.84363
+N252,0,90.4622,24.716,3000,,S4,BGD,Mymensingh,,,,,,,Old Brahmaputra at Char Nilakshia (Mymensingh BIWTA lots 2024),90.44737,90.47703,24.70253,24.72947
+N253,0,90.5107,24.623,3000,,S4,BGD,Mymensingh,,,,,,,Old Brahmaputra at Char Algi (Mymensingh BIWTA lots 2024),90.49588,90.52552,24.60953,24.63647
+N254,0,88.5912,26.4148,3000,,S1,BGD,Rangpur,,,,,,,Talma pathar mahals at Madhupara-Sardarpara (Panchagarh Sadar; stone gazette 2013),88.57615,88.60625,26.40133,26.42827
+N255,0,88.5105,26.4066,3000,,S1,BGD,Rangpur,,,,,,,"Chawai pathar mahals at Omarpur-Pradhanpara (Panchagarh Sadar; stone gazette 2013, 2016)",88.49546,88.52554,26.39313,26.42007
+N256,0,88.5383,26.3737,3000,,S1,BGD,Rangpur,,,,,,,Karatoya pathar mahal-02 at Dhakkamara (Panchagarh Sadar; stone gazette 2013),88.52326,88.55334,26.36023,26.38717
+N257,0,88.6957,26.2602,3000,,S1,BGD,Rangpur,,,,,,,Ghoramara pathar mahal at Naotari-Tokrabhasa (Boda; stone gazette 2013),88.68067,88.71073,26.24673,26.27367
+N258,0,88.728,26.1457,3000,,S1,BGD,Rangpur,,,,,,,Karatoya pathar mahal at Sonapota-Sultanpur (Debiganj; stone gazette 2013),88.71299,88.74301,26.13223,26.15917
+N259,0,88.3779,26.5914,3000,,S1,BGD,Rangpur,,,,,,,Mahananda pathar-02 at Khanji Kismat (Tetulia; stone gazette 2013),88.36283,88.39297,26.57793,26.60487
+N260,0,89.168,25.499,3000,,S1,BGD,Rangpur,,,,,,,"Tarafsadi balu mahal (Mithapukur; Rangpur list, leased 1427 BS)",89.15307,89.18293,25.48553,25.51247
+N261,0,88.251,26.465,3000,,S1,IND,West Bengal,,,,,,,Mahananda bar pits SW of Siliguri (88.25 E; Planet pilot P4),88.23595,88.26605,26.45153,26.47847
+N262,0,88.401,26.691,3500,,S1,IND,West Bengal,,,,,,,Mahananda bar pits at Siliguri (Planet pilot Q1),88.3834,88.4186,26.67528,26.70672
+N263,0,88.484,26.537,3000,,S1,IND,West Bengal,,,,,,,Floodplain pit field north of E004 (Planet batch 3 R3),88.46894,88.49906,26.52353,26.55047
+N264,0,88.604,25.812,3000,,S1,BGD,Rangpur,,,,,,,Punarbhaba channel re-excavation (Planet pilot P2),88.58903,88.61897,25.79853,25.82547

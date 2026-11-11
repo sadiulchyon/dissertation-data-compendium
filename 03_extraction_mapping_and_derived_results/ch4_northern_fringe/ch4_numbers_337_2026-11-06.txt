@@ -1,0 +1,36 @@
+sites 337
+type
+No signal            158
+Bar vegetation        72
+Possible dredging     34
+Floodplain pits       16
+Bar loss              15
+Depot / stockpile     15
+Pit extraction        14
+Land filling          13
+ext sites in area file 79
+cons footprint by year: {1995: 42, 2000: 262, 2005: 445, 2010: 541, 2014: 571, 2015: 640, 2019: 863, 2020: 876, 2021: 931, 2022: 970, 2023: 1000, 2024: 873, 2025: 867}
+period means 1996-2000 168 2006-10 517 2015-19 775 2021-25 928
+upper bound 2021-25 2624
+2021-25 total 928  by sector {'S1': 220.0, 'S2': 46.0, 'S3': 80.0, 'S4': 98.0, 'S5': 211.0, 'S6': 273.0}
+ BGD 847 91%
+ top10 share 47% [['N69', 'Floodplain pits', 91.5], ['E060', 'Pit extraction', 90.6], ['N264', 'Possible dredging', 55.2], ['N34', 'Pit extraction', 48.6], ['N01', 'Pit extraction', 29.4], ['N22', 'Possible dredging', 27.3], ['N04', 'Pit extraction', 26.0], ['N62', 'Possible dredging', 24.8], ['N249', 'Possible dredging', 21.2], ['N175', 'Possible dredging', 20.8]]
+ by class {'Bar loss': 100.0, 'Floodplain pits': 189.0, 'Pit extraction': 299.0, 'Possible dredging': 340.0}
+period  1988-2000  2001-10  2011-15  2016-20  2021-25
+sector                                               
+S1           28.0    162.0    146.0    197.0    220.0
+S2           10.0     55.0     46.0     48.0     46.0
+S3           14.0     39.0     42.0     70.0     80.0
+S4           20.0     50.0     74.0     73.0     98.0
+S5           17.0     55.0     82.0    179.0    211.0
+S6           31.0     57.0    141.0    255.0    273.0
+pits Pit extraction 14 {1995: 62, 2000: 46, 2004: 59, 2008: 80, 2010: 102, 2013: 102, 2016: 82, 2020: 104, 2025: 98}
+pits Floodplain pits 16 {1995: 103, 2000: 107, 2004: 106, 2008: 124, 2010: 133, 2013: 120, 2016: 150, 2020: 120, 2025: 116}
+sinks 2021-25 445 {'Depot / stockpile': 138.0, 'Land filling': 307.0} n sites 28
+dated sinks 21 cumulative peak by 2025 948
+postban n 79 gained 28 stable 44 lost 7 ['E079', 'N06', 'N07', 'N114', 'N233', 'N261', 'N85']
+ gained ['E001', 'E002', 'E003', 'E004', 'E005', 'E008', 'E009', 'E015', 'E045', 'E046', 'E047', 'E048', 'E060', 'E061', 'N01', 'N05', 'N12', 'N15', 'N175', 'N176', 'N207', 'N249', 'N251', 'N26', 'N262', 'N263', 'N69', 'N79']
+dated ext 77 after 2000 72 in 2000-09 37 by 2014 66 by 2023 77
+ pre-2000 [['E048', 1996.0], ['E008', 1999.0], ['E079', 1995.0], ['E007', 1998.0], ['E049', 1998.0]]
+ 2020+ [['N01', 2021.0], ['N05', 2021.0], ['N22', 2021.0], ['N26', 2023.0], ['N251', 2022.0]]
+sinks dated 21 by 2005 4 from 2014 15 2020-25 ['N41', 'N43', 'N235', 'N238', 'N252', 'N253']

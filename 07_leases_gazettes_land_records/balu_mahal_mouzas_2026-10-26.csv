@@ -1,0 +1,44 @@
+district,upazila,balu_mahal,river,mouza_doc,matched_name,source,lon,lat,union_geonames,match,note,in_window,nearest_site,nearest_km,nearest_class
+Nilphamari,Dimla,Bhendabari,Teesta,Bhendabari (JL 53),053-Bhendabari,map.land.gov.bd landuse River+Sandbar plots,89.0786,26.1136,Jhunagachh Chapani,exact JL,River/Sandbar plots bbox 89.072-89.093 E 26.104-26.120 N,N242,N242,0.1,Bar vegetation
+Nilphamari,Kishoreganj,Chandkhana,Jamuneshwari,Chandkhana (JL 24),024-Dakkhin Chandkhana,map.land.gov.bd landuse River+Sandbar plots,89.0345,25.8290,Chandkhana,exact JL,River/Sandbar plots bbox 89.022-89.044 E 25.816-25.843 N,N243,N243,0.1,Bar vegetation
+Nilphamari,Nilphamari Sadar,Dubachhuri,Deonai,Dubachhuri (JL 30),026-Dubachhuri,map.land.gov.bd landuse River plots,88.8594,26.0205,Lakshmi Chap,name (JL 26 on map vs 30 in list),River plots bbox 88.851-88.880 E 26.007-26.032 N; no Sandbar class,,N244,2.4,No signal
+Thakurgaon,Pirganj,Tangon Kantor mouza,Tangon,Kantor (read from scan),Kastor,GeoNames PPL,88.3681,25.8172,Daulatpur,0.17 skeleton,Scan reading may be Kastor; check on the PDF,,N241,2.7,Possible dredging
+Jamalpur,Jamalpur Sadar,Chhonkanda Charjothartopur,Brahmaputra,Charjothartopur,Jatharthapur,GeoNames PPL,90.0032,24.9046,Lakshmir Char,exact,Chhonkanda not found,N245,N245,0.8,Possible dredging
+Jamalpur,Jamalpur Sadar,Nandina Narundi Piyarpur,Brahmaputra,Nandina,Nandina,GeoNames PPL,90.0332,24.8672,Ranagachha,exact,,,N127,3.1,Bar vegetation
+Jamalpur,Jamalpur Sadar,Nandina Narundi Piyarpur,Brahmaputra,Narundi,Narundi,GeoNames PPL,90.1330,24.8529,Narundi,exact,,,N246,2.3,Bar vegetation
+Jamalpur,Jamalpur Sadar,Nandina Narundi Piyarpur,Brahmaputra,Piyarpur,Piarpur,GeoNames PPL,90.1914,24.8808,Itail,exact,,,N237,2.4,Bar vegetation
+Jamalpur,Jamalpur Sadar,Rashidpur Chandra,Brahmaputra,Rashidpur,Rasidpur,GeoNames PPL,89.9996,24.7639,Rashidpur,exact,Chandra not found,,N28,7.6,Land filling
+Jamalpur,Islampur,Goalinirchar,Brahmaputra-Jamuna,Goalinir Char,Goaler Char,GeoNames PPL,89.8290,25.1308,Goaler Char,variant spelling,,,E033,1.8,Bar vegetation
+Sherpur,Sherpur Sadar,Mrigi nadi,Mrigi,Lachhmanpur,Lachhmanpur,GeoNames PPL,90.0143,24.9775,Lakshmanpur,exact,Sherpur mouza = town,N248,N248,0.9,No signal
+Sherpur,Sherpur Sadar,Char Pakshimari,Old Brahmaputra,Char Pakshimari,Char Pakshimari,GeoNames ADM4,89.9516,24.9544,Char Pakshimari,exact,union centroid,"N48,N239",N239,0.1,Bar vegetation
+Sherpur,Nalitabari,Chellakhali,Chellakhali,Batkuchi,Batkuchi,GeoNames PPL,90.1563,25.1819,Nunni Poragaon,exact,,N129,N129,1.4,No signal
+Sherpur,Nalitabari,Chellakhali,Chellakhali,Palashikura,Palasiakura,GeoNames PPL,90.1761,25.1943,Nunni Poragaon,exact,,N130,N130,0.6,No signal
+Sherpur,Nalitabari,Chellakhali,Chellakhali,Sannyasivita,Sanyasiphita,GeoNames PPL,90.1598,25.1033,Baghber Kalaspar,0.10,Tajurabad not found,,N116,4.2,No signal
+Sherpur,Nalitabari,Bhogai nadi,Bhogai,Kerengapara,Karangapara,GeoNames PPL,90.1994,25.1359,Ramchandrakura Mandalia,exact,,"N131,N249",N131,1.1,No signal
+Sherpur,Nalitabari,Bhogai nadi,Bhogai,Mandaliapara,Maodaliapara,GeoNames PPL,90.2171,25.1636,Ramchandrakura Mandalia,0.09,,N133,N133,1.3,No signal
+Sherpur,Nalitabari,Bhogai nadi,Bhogai,Andharupara,Andharpara,GeoNames PPL,90.1895,25.1434,Ramchandrakura Mandalia,0.10,,,N249,1.4,Possible dredging
+Sherpur,Nalitabari,Bhogai nadi,Bhogai,Phulpur,Phulpur,GeoNames PPL,90.2071,25.1432,Ramchandrakura Mandalia,exact,,N249,N249,0.5,Possible dredging
+Sherpur,Nalitabari,Burunga o Andharupara Baigarpara,Bhogai (assumed),Burunga,Buronga,GeoNames PPL,90.1746,25.2079,Nunni Poragaon,exact,,N130,N130,1.3,No signal
+Sherpur,Nalitabari,Burunga o Andharupara Baigarpara,Bhogai (assumed),Baigarpara,Baigarpara,GeoNames PPL,90.1387,25.1680,Nunni Poragaon,exact,,,N129,1.7,No signal
+Sherpur,Jhenaigati,Bongaon Badechallish Kahnia,Maharshi (assumed),Bongaon,Bangaon,GeoNames PPL,90.0994,25.1376,Nalkura Gauripur,exact,second Bangaon at 90.0755 25.1456,,N228,1.7,No signal
+Sherpur,Jhenaigati,Maharshi,Maharshi,Fakrabad,Phakrabad,GeoNames PPL,90.1154,25.2022,Nalkura Gauripur,exact,,N128,N128,1.3,No signal
+Sherpur,Jhenaigati,Maharshi,Maharshi,Ramerkura,Ramarkura,GeoNames PPL,90.0720,25.1913,Jhenaigati,exact,Nalitabari Ramerkura (90.1616 25.174) is the other candidate,E050,E050,0.3,Possible dredging
+Sherpur,Jhenaigati,Maharshi,Maharshi,Haldigram,Haldigram,GeoNames PPL,90.1210,25.2079,Nalkura Gauripur,exact,Kudaljani not found,N128,N128,1.5,No signal
+Sherpur,Jhenaigati,Paglarmukh,not stated,Beltoil,Beltail,GeoNames PPL,90.0536,25.1336,Hatibandha Malijhikanda,exact,,,N228,3.0,No signal
+Sherpur,Jhenaigati,Paglarmukh,not stated,Hatibandha,Hatibanda,GeoNames PPL,90.0666,25.1311,Hatibandha Malijhikanda,exact,,,N228,1.9,No signal
+Sherpur,Jhenaigati,Paglarmukh,not stated,Ghagra Laskar,Ghagralaskar,GeoNames PPL,90.0447,25.1183,Hatibandha Malijhikanda,exact,,,N228,4.5,No signal
+Sherpur,Jhenaigati,Paglarmukh,not stated,Baramalijhikanda,Bara Malijhi Kanda,GeoNames PPL,90.0811,25.1020,Hatibandha Malijhikanda,exact,Paglarmukh = Malijhi river area,,N228,4.2,No signal
+Sherpur,Jhenaigati,Taoakocha,not stated,Taoakocha,Taokocha,GeoNames PPL,89.9932,25.2478,Kangsa Dhansail,exact,,N114,N114,1.1,Bar loss
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Char Jelkhana,Jailkhana Char,GeoNames PPL,90.3624,24.7890,Khagdahar,exact,,,N22,5.1,Possible dredging
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Char Shyamrampur,Char Syamrampur,GeoNames PPL,90.3158,24.8316,Paranganj,exact,,,N251,4.0,Possible dredging
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Char Dhari Kushtia,Char Dari Kushtia,GeoNames PPL,90.2734,24.8315,Kushtia,exact,,N251,N251,0.3,Possible dredging
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Char Nilakshia,Char Nilakshia,GeoNames PPL,90.4685,24.7237,Char Nilakshmia,exact,,N252,N252,1.1,Depot / stockpile
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Char Ishwardia,Char Iswardia,GeoNames PPL,90.4227,24.7635,Char Ishwardia,exact,,,N22,1.8,Possible dredging
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Borer Char,Borar Char,GeoNames PPL,90.2894,24.8703,Borar Char,exact,,,N250,2.3,Bar vegetation
+Mymensingh,Mymensingh Sadar,BIWTA stockpiles,Old Brahmaputra,Rehai Tarapur,Tarapur,GeoNames PPL,90.2539,24.8455,Borar Char,partial,,,N250,2.3,Bar vegetation
+Mymensingh,Mymensingh Sadar (list),BIWTA stockpiles,Old Brahmaputra,Char Algi,Char Algi,GeoNames PPL,90.5136,24.6314,Uchakhila (Ishwarganj),exact name,listed under Sadar; GeoNames puts it in Ishwarganj,N253,N253,1.0,Depot / stockpile
+Mymensingh,Gauripur,BIWTA stockpiles,Old Brahmaputra,Khodabakshpur,Khudabaksapur,GeoNames PPL,90.4721,24.6661,Bhangnamari,0.08,,,N238,2.4,Depot / stockpile
+Mymensingh,Gauripur,BIWTA stockpiles,Old Brahmaputra,Char Bhabkhali,Char Bhabakhali,GeoNames PPL,90.4641,24.6536,Bhangnamari,0.09,,,N238,3.9,Depot / stockpile
+Mymensingh,Gauripur,BIWTA stockpiles,Old Brahmaputra,Bhangnamari,Bhangnamari,GeoNames PPL,90.4731,24.7080,Bhangnamari,exact,,N252,N252,1.4,Depot / stockpile
+Panchagarh,Panchagarh Sadar,Karatoya group 3,Karatoya,Panchagarh (JL 22),Panchagarh town,approximate,88.5550,26.3350,,town,,E010,E010,0.5,Bar loss
+Rangpur,Mithapukur,Tarafsadi balu mahal,not stated (river class),Tarafsadi (JL 64),Taraf Sadi,GeoNames PPL,89.1563,25.4999,Milanpur,exact,run as N260; mouza holds a beel,N260,N260,1.2,No signal

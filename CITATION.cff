@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "Data compendium of the PhD dissertation on sand and gravel extraction on the rivers of northern and northeast Bangladesh (public release v1.0)"
+authors:
+  - family-names: Chyon
+    given-names: MD Sadiul Alam
+    affiliation: University of Illinois Urbana-Champaign
+version: 1.0.0
+date-released: 2026-11-10
+license: CC-BY-4.0
+repository-code: "https://github.com/sadiulchyon/dissertation-data-compendium"
+keywords:
+  - sand mining
+  - gravel mining
+  - river sediment extraction
+  - Bangladesh
+  - remote sensing

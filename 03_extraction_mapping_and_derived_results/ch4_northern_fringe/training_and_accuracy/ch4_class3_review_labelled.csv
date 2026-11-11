@@ -1,0 +1,148 @@
+id,lon,lat,sector,cand_epoch,img_date,season,label,confidence,note
+C001,88.434,26.4874,S1,2005,2011-11-18,2012,2,M,Dahuk river bed; braided bare channel bed
+C002,88.48355,26.48032,S1,2005,2011-11-18,2012,3,H,floodplain pit field; water-filled pits and spoil
+C003,88.48395,26.47006,S1,2005,2011-11-18,2012,5,M,village and road with trees
+C004,88.49213,26.45275,S1,2005,2011-11-18,2012,5,L,road/village edge next to pit field
+C005,88.51754,26.35513,S1,2005,2011-11-18,2012,2,M,Mahananda bar; small pits at bar edge
+C006,89.0869,26.32208,S1,2005,2010-11-30,2011,2,H,large sand char
+C007,89.1079,26.14276,S1,2005,2011-01-28,2011,2,H,sand char
+C008,89.73018,25.27059,S2,2005,2011-02-11,2011,4,M,char cropland and fallow
+C009,89.7353,25.27936,S2,2005,2011-02-11,2011,4,H,cropland
+C010,89.80707,25.12991,S2,2005,2011-03-02,2011,2,H,Brahmaputra sand bar
+C011,89.84295,25.05273,S2,2005,2012-02-05,2012,1,M,channel water at bar edge
+C012,90.43199,24.99424,S4,2005,2004-10-26,2005,1,H,Kangsa river water (post-monsoon image)
+C013,90.49593,25.02051,S4,2005,2004-10-26,2005,2,L,Kangsa bar edge; image at higher stage
+C014,90.67811,25.11472,S4,2005,2009-12-07,2010,4,M,fields between tree lines
+C015,91.24169,25.18261,S5,2005,2011-08-27,2012,1,L,village pond; monsoon image
+C016,91.25961,25.19934,S5,2005,2011-08-27,2012,2,L,sandy bank beside channel; monsoon image
+C017,91.25993,25.19799,S5,2005,2011-09-13,2012,2,M,sand bank between channel and vegetation (monsoon image)
+C018,91.38503,25.16989,S5,2005,2011-11-01,2012,2,H,sand bar at border
+C019,91.38924,25.16641,S5,2005,2010-10-31,2011,4,L,shrubby bank next to sand bar
+C020,91.74688,25.14956,S6,2005,2011-11-01,2012,3,M,disturbed ground with pits and tracks (Bholaganj)
+C021,91.75288,25.17453,S6,2005,2011-11-01,2012,2,L,grey gravel bed with vehicle tracks
+C022,91.75597,25.13365,S6,2005,2011-11-01,2012,2,M,Dhalai gravel/sand bar with channel
+C023,91.75622,25.16724,S6,2005,2011-11-01,2012,2,L,Shada Pathor grey stone bed with pools
+C024,91.75691,25.12932,S6,2005,2011-11-01,2012,4,L,vegetated bank and fields beside bar
+C025,91.7586,25.10902,S6,2005,2011-11-01,2012,5,H,dense settlement (Bholaganj bazaar)
+C026,91.75861,25.16699,S6,2005,2011-11-01,2012,3,M,bare ground with irregular water-filled pits beside forest
+C027,91.7596,25.15671,S6,2005,2011-11-01,2012,3,M,grey stone bed pocked with irregular excavation pools (Bholaganj)
+C028,91.88803,25.17398,S6,2005,2011-11-01,2012,3,M,grey stone bed with scattered excavation pools and sheds (Bichanakandi)
+C029,92.0184,25.17544,S6,2005,2011-11-01,2012,3,M,bare disturbed ground with stone piles and pits beside tree line
+C031,88.49399,26.48985,S1,2010,2011-11-18,2012,4,L,bank road between Karatoya channel and tree plantation
+C032,88.49544,26.49881,S1,2010,2011-11-18,2012,3,M,white bank sediment with irregular water-filled pits (Tetulia)
+C033,88.50364,26.40417,S1,2010,2011-11-18,2012,2,M,bright point bar at border reach (Mahananda)
+C034,88.51816,26.35461,S1,2010,2011-11-18,2012,2,L,grey channel bed beside vegetated bank; few small pools
+C035,89.03434,26.32306,S1,2010,2010-11-30,2011,2,M,braided channel bar and minor channels
+C036,89.09872,26.14847,S1,2010,2011-01-28,2011,1,L,Tista channel and bar edge; hazy image
+C037,89.10976,26.13172,S1,2010,2011-01-28,2011,1,L,Tista minor channel between sand bars
+C038,89.5526,25.63267,S2,2010,2011-12-29,2012,2,L,Brahmaputra char bar edge; hazy image
+C039,89.55687,25.61924,S2,2010,2011-12-29,2012,2,L,Brahmaputra char sand with faint cultivation lines
+C040,89.5624,25.61369,S2,2010,2011-12-29,2012,4,M,cultivated plots on char land
+C041,89.65285,26.206,S2,2010,2010-11-22,2011,1,M,Brahmaputra channel water
+C042,89.67992,26.14006,S2,2010,2010-11-22,2011,2,H,Brahmaputra sand bar
+C043,89.68131,26.14415,S2,2010,2010-11-22,2011,1,M,Brahmaputra channel at bar edge
+C044,89.68559,26.14127,S2,2010,2010-11-22,2011,1,M,Brahmaputra channel water
+C045,89.7447,25.23925,S2,2010,2011-02-11,2011,4,M,dry-season fields beside small channel and homestead
+C046,89.81202,25.12271,S2,2010,2011-03-02,2011,2,M,Brahmaputra channel and adjacent sand bar
+C047,89.81665,25.11604,S2,2010,2011-03-02,2011,2,L,char sand with faint field outlines
+C048,90.73926,25.07261,S4,2010,2011-03-13,2011,2,L,wide sand bed with vehicle tracks; small stockpile lines nearby (possible extraction)
+C049,90.88334,25.166,S4,2010,2014-02-25,2014,2,M,border reach sand bed beside channel (Jadukata)
+C050,91.37761,25.14624,S5,2010,2010-10-31,2011,2,M,sand bar at channel edge (Chela)
+C051,91.38511,25.07319,S5,2010,2010-10-31,2011,1,H,Surma channel with bulkhead boats moored at bank ghat
+C052,91.74656,25.15145,S6,2010,2011-11-01,2012,3,M,bare yard with scattered sheds near Bholaganj land port (stockpile/crusher)
+C053,91.7531,25.12306,S6,2010,2011-11-01,2012,5,L,compound with sheds on bare ground; possibly crusher
+C054,91.75741,25.16725,S6,2010,2011-11-01,2012,3,M,stone bed with water-filled excavation pits (Bholaganj quarry)
+C055,91.75804,25.16401,S6,2010,2011-11-01,2012,3,M,quarry floor between large water-filled pits (Bholaganj)
+C056,91.76144,25.12259,S6,2010,2011-11-01,2012,4,L,dark tree cover beside bright field; dark image
+C057,91.89309,25.17348,S6,2010,2011-11-01,2012,3,M,stone bed pocked with excavation pools and spoil (Bichanakandi)
+C058,91.99278,25.17717,S6,2010,2011-11-01,2012,2,M,Piyain stone/sand bed with braided channel below forested hill
+C060,92.34645,25.06645,S6,2010,2011-11-01,2012,1,M,Lubhachhara channel; pits visible on east bank
+C061,88.44481,26.49504,S1,2015,2017-02-13,2017,3,H,stone sorting/crusher yard with stockpiles between long sheds (Tetulia)
+C062,88.48727,26.48504,S1,2015,2017-02-13,2017,3,H,floodplain excavation with spoil ridges and water-filled pit (Tetulia)
+C063,88.52585,26.35755,S1,2015,2016-12-06,2017,3,H,hummocky excavated floodplain with pits and spoil beside haul road (Tetulia)
+C064,88.54181,26.37968,S1,2015,2016-12-06,2017,2,L,Chauli River bed and bar at bank
+C065,88.56012,26.40324,S1,2015,2016-12-06,2017,3,H,cleared excavation ground with pits and spoil beside highway
+C066,89.07678,26.32856,S1,2015,2016-10-19,2017,1,M,Tista channel between sand bars
+C067,89.08713,26.15437,S1,2015,2016-10-19,2017,1,L,Tista channel; hazy image
+C068,89.0893,26.14334,S1,2015,2015-01-15,2015,1,L,Tista channel water; coarse image (date approximate)
+C091,88.477,26.51716,S1,2020,2018-11-20,2019,3,H,water-filled excavation pit beside bare spoil amid fields (Tetulia floodplain)
+C092,89.0849,26.14917,S1,2020,2018-02-16,2018,2,H,Tista sand bar
+C093,89.0853,26.14621,S1,2020,2018-02-16,2018,2,M,Tista bar near channel
+C094,89.09004,26.13903,S1,2020,2019-01-08,2019,2,H,Tista sand bar with tracks
+C095,89.0955,26.12809,S1,2020,2019-01-08,2019,2,M,Tista bar edge beside channel
+C096,89.67847,26.14895,S2,2020,2019-03-25,2019,4,M,grass/scrub strip on Brahmaputra char
+C097,89.68262,26.14012,S2,2020,2019-03-25,2019,2,M,char sand with sparse scrub (Brahmaputra)
+C098,89.72136,25.25524,S2,2020,2019-03-25,2019,2,M,char sand with track beside field outlines
+C099,89.72774,25.2616,S2,2020,2019-03-25,2019,2,L,char sand with small red drying patches
+C100,89.73892,25.24426,S2,2020,2019-03-25,2019,2,M,char sand with vehicle tracks
+C101,89.81753,25.15098,S2,2020,2019-03-25,2019,2,M,sand bar beside village bank
+C102,90.80224,25.09197,S4,2020,2017-11-10,2018,1,M,narrow channel at sandy bank (Kangsa)
+C103,91.26021,25.19908,S5,2020,2018-11-11,2019,3,M,cleared sand with irregular excavation ponds and tracks
+C104,91.38515,25.16068,S5,2020,2018-11-15,2019,2,L,sand flat beside plantation; small dark pits nearby
+C105,91.38594,25.16854,S5,2020,2018-11-15,2019,2,M,sand bar at grassed channel edge
+C106,91.6505,25.03656,S6,2020,2018-12-12,2019,3,H,excavated slope with spoil and haul roads (quarry)
+C107,91.74982,25.15283,S6,2020,2018-12-12,2019,3,H,crusher and stockpile yards with sheds (Bholaganj)
+C108,91.75204,25.1691,S6,2020,2018-12-12,2019,2,M,sand bar between water bodies (Dhalai at Bholaganj)
+C109,91.75205,25.16775,S6,2020,2018-12-12,2019,1,H,deep water in flooded quarry pit (Bholaganj); extraction-created water
+C110,91.75306,25.15638,S6,2020,2018-12-12,2019,3,M,irregular water-filled pits on quarry floor (Bholaganj)
+C111,91.76092,25.11473,S6,2020,2018-12-12,2019,2,L,sandy bank beside village and channel; tracks
+C112,91.7617,25.15537,S6,2020,2018-12-12,2019,5,H,village settlement (Bholaganj)
+C113,91.76274,25.14102,S6,2020,2018-12-12,2019,3,H,stone crusher yards with stockpiles (Bholaganj)
+C114,91.76346,25.15782,S6,2020,2018-12-12,2019,3,H,quarry floor between flooded pits with sheds (Bholaganj)
+C115,91.81658,24.95725,S6,2020,2020-04-11,2020,3,H,sand/stone stockpile ghat yards on riverbank
+C116,91.8827,25.17042,S6,2020,2018-12-12,2019,3,H,land pocked with water-filled pits and spoil (Kalaiuni/Bichanakandi)
+C117,91.9679,25.16237,S6,2020,2015-04-24,2015,2,M,stone/sand bed at channel edge (Piyain/Sari)
+C118,92.00976,25.17647,S6,2020,2018-12-23,2019,3,M,edge of water-filled pit among stockpiles and boats (Jaflong)
+C119,92.21754,24.94419,S6,2020,2018-12-23,2019,1,M,river channel at sandy bank
+C120,92.31857,25.05278,S6,2020,2019-01-07,2019,3,M,disturbed ground with pits and tracks near Lubha channel
+C121,89.08569,26.14351,S1,2024,2023-03-09,2023,2,M,Tista sand bar
+C122,89.09191,26.12772,S1,2024,2023-03-09,2023,2,L,Tista bar at channel junction
+C123,89.09632,26.12135,S1,2024,2023-03-09,2023,2,M,Tista bar with dry channels
+C124,89.10061,26.12742,S1,2024,2023-03-09,2023,2,M,Tista bar surface
+C125,89.55084,25.63182,S2,2024,2023-12-20,2024,2,L,Brahmaputra char sand strip between fields
+C126,89.56104,25.61961,S2,2024,2023-12-20,2024,2,L,char margin at Brahmaputra channel
+C127,89.56319,25.60694,S2,2024,2023-12-20,2024,2,L,char sand at field margin
+C128,89.71906,25.24111,S2,2024,2023-02-18,2023,2,M,char sand surface
+C129,89.73402,25.24929,S2,2024,2023-02-18,2023,2,M,char sand with red drying patches
+C130,89.79778,25.14405,S2,2024,2022-12-16,2023,2,M,char sand/silt surface
+C131,89.82723,25.09786,S2,2024,2022-12-16,2023,4,L,bank homestead trees and fields with small bare patch
+C132,90.6746,25.14256,S4,2024,2023-02-11,2023,3,M,sand bed criss-crossed by haul tracks (Someshwari)
+C133,90.74921,25.04839,S4,2024,2023-02-11,2023,2,M,sandy bed of narrow river between vegetation
+C134,90.90269,25.1132,S4,2024,2022-12-09,2023,4,L,channel bank with green fields
+C135,91.25914,25.19067,S5,2024,2023-02-04,2023,2,M,wide sand bed
+C136,91.25991,25.19962,S5,2024,2023-02-04,2023,3,M,sand bed edge of dense manual pit field
+C137,91.65069,25.0195,S6,2024,2023-04-22,2023,5,H,large roofed buildings
+C138,91.66275,25.03126,S6,2024,2023-04-22,2023,5,H,town buildings along road
+C139,91.74786,25.16988,S6,2024,2022-11-20,2023,1,L,channel at bar edge in reworked quarry reach (Bholaganj)
+C140,91.7489,25.15553,S6,2024,2022-11-20,2023,3,H,stockpile/crusher yard with sheds and moored boats (Bholaganj)
+C141,91.75983,25.16402,S6,2024,2022-11-20,2023,2,L,stone/sand bed between water (Shada Pathor reach)
+C142,91.7622,25.16512,S6,2024,2022-11-20,2023,3,H,excavated ground with water-filled pits
+C143,91.88208,25.17258,S6,2024,2023-03-02,2023,3,M,flooded pitted ground with spoil (Bichanakandi)
+C144,91.88623,25.17532,S6,2024,2023-03-02,2023,3,L,stone bed beside tarp camp (Bichanakandi)
+C145,92.01182,25.17946,S6,2024,2022-09-30,2023,2,M,Piyain sand bar beside channel (Jaflong)
+C146,92.01238,25.18299,S6,2024,2022-09-30,2023,2,M,Piyain sand bar (Jaflong)
+C147,92.01839,25.1768,S6,2024,2022-09-30,2023,3,H,crusher and stockpile yards beside settlement (Jaflong)
+C148,92.30621,25.0278,S6,2024,2023-01-09,2023,2,L,bare bank strip beside Lubha channel
+C149,92.33137,25.04959,S6,2024,2023-01-09,2023,3,M,sand bed beside excavated bank with haul tracks (Lubha)
+C150,92.33283,25.05447,S6,2024,2023-01-09,2023,3,H,water-filled excavation pits with spoil (Lubha)
+C069,89.09385,26.1505,S1,2015,2014-02-12,2014,1,M,Tista channel at bar edge
+C070,89.09397,26.13806,S1,2015,2014-02-12,2014,2,M,Tista sand bar
+C071,89.09482,26.12131,S1,2015,2014-02-12,2014,2,L,Tista bar with small pond
+C072,89.09686,26.14111,S1,2015,2014-02-12,2014,2,M,Tista bar with scattered scrub
+C073,89.09765,26.14438,S1,2015,2014-02-12,2014,2,L,Tista bar beside scrub patch
+C074,89.55206,25.63077,S2,2015,2011-12-29,2012,2,L,Brahmaputra bar at water edge
+C075,89.56152,25.62341,S2,2015,2011-12-29,2012,1,H,Brahmaputra channel water
+C076,89.56447,25.62483,S2,2015,2011-12-29,2012,4,M,char homestead trees and fields
+C077,89.6396,25.52131,S2,2015,2012-03-15,2012,1,M,Brahmaputra channel water
+C078,89.64981,26.197,S2,2015,2014-02-01,2014,1,M,channel water at bar edge
+C079,89.72548,25.25722,S2,2015,2013-02-24,2013,1,L,channel beside bank; haze
+C081,89.74321,25.19483,S2,2015,2013-02-24,2013,1,H,river channel water
+C082,91.70128,24.92947,S6,2015,2014-11-11,2015,5,M,brick kiln with drying rows on riverbank
+C083,91.75473,25.16804,S6,2015,2011-11-01,2012,3,H,quarry floor between water-filled pits (Bholaganj)
+C084,91.76134,25.16132,S6,2015,2011-11-01,2012,3,H,muddy water-filled pits and spoil (Bholaganj quarry)
+C085,91.76504,25.11964,S6,2015,2011-11-01,2012,2,L,sand bed at grassy bank (Dhalai downstream)
+C086,91.77574,25.12027,S6,2015,2011-11-01,2012,2,M,point bar sand at channel edge
+C087,91.79708,24.94626,S6,2015,2014-11-11,2015,3,M,sand stockpiles along Surma bank
+C088,91.9685,25.16156,S6,2015,2011-11-01,2012,2,M,wide sand/stone bed (Piyain/Sari)
+C089,92.01176,25.18651,S6,2015,2011-11-01,2012,4,L,forest edge at haul road above excavation (Jaflong)
+C090,92.02746,25.12186,S6,2015,2015-03-24,2015,2,L,bank sand strip between field and channel

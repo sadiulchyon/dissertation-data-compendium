@@ -1,0 +1,19 @@
+river,code,name,type,lat,lon,utm46n_e,utm46n_n
+Lubha,SW326,Lubhachorra,"Water level, discharge",25.0515,92.3085,430249,2770829
+Lubha,CL228,Kanaighat,Rainfall,25.0002,92.2579,425114,2765175
+Lubha,SY087,Kanaighat,Groundwater,24.9667,92.2667,425982,2761460
+Sari-Gowain,SW251,Sharighat,"Water level, discharge",25.0939,92.1173,410993,2775636
+Sari-Gowain,SW252,Gowainghat,Water level,25.0886,91.9809,397233,2775146
+Sari-Gowain,CL116,Lalakhal,Rainfall,25.1074,92.1789,417213,2777092
+Sari-Gowain,SY060,Jaintiapur,Groundwater,24.9278,91.9917,398190,2757331
+Piyain,SW233A,Jaflong Spill,"Water level, discharge",25.1568,92.0167,400899,2782672
+Piyain,SW233,Ratnar bhanga,"Water level, discharge",25.1624,91.9670,395894,2783329
+Piyain,CL48,Jaflong,Rainfall,25.1617,92.0172,400953,2783214
+Jadukata,SW131.5,Laurergarh,"Water level, discharge",25.1891,91.2508,323742,2787032
+Jadukata,CL49,Laurergarh,Rainfall,25.1920,91.2505,323716,2787354
+Jadukata,SY102,Tahirpur,Groundwater,25.0917,91.1750,315957,2776345
+Someshwari,SW262,Bijoypur,"Water level, discharge",25.172048,90.659306,264089,2786049
+Someshwari,SW263,Durgapur,Water level,25.11388,90.670497,265106,2779585
+Someshwari,CL63,Durgapur,Rainfall,25.1,90.65,263012,2778083
+Someshwari,GT7218003,Durgapur near-river well,Groundwater,25.1431,90.6736,265475,2782817
+Someshwari,GT7218004,Reference well,Groundwater,25.1194,90.5542,253386,2780404

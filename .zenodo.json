@@ -1,0 +1,57 @@
+{
+  "title": "Data compendium of the PhD dissertation on sand and gravel extraction on the rivers of northern and northeast Bangladesh (public release v1.0)",
+  "upload_type": "dataset",
+  "description": "<p>Open data of the PhD dissertation on sand and gravel extraction on the rivers of northern and northeast Bangladesh (MD Sadiul Alam Chyon, Department of Geography and GIS, University of Illinois Urbana-Champaign). The release holds the derived results of Chapters 2 to 9 (regional site set and January Landsat series of 337 sites; Lubha River pits, volumes and barracks; Someshwari and four-river bar area, section metrics, stage at the same discharge, groundwater statistics and Sentinel-1 inundation), the Bangladesh Sand Watch press and official records, district balumahal lease lists, the 2013 quarry gazette and land-map mining records, GIS layers, station metadata, Google Earth Engine scripts, a data guide, a catalog of all 62 datasets used in the thesis and tidy data tables.</p><p>Withheld: raw hydrometric records of the Bangladesh Water Development Board and the Bangladesh Meteorological Department (available from the agencies on request), identifiable field data (UIUC IRB23-0168), the de-identified Someshwari household survey (to be added after acceptance of the related article), licensed imagery, and field photographs. The catalog lists every withheld dataset with its stations, periods or scenes.</p>",
+  "creators": [
+    {
+      "name": "Chyon, MD Sadiul Alam",
+      "affiliation": "University of Illinois Urbana-Champaign"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Best, James L.",
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "type": "Supervisor"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "sand mining",
+    "gravel mining",
+    "river sediment extraction",
+    "Bangladesh",
+    "Shillong Plateau",
+    "Landsat",
+    "Sentinel-1",
+    "Sentinel-2",
+    "bed lowering",
+    "river stage",
+    "floodplain inundation",
+    "sand governance",
+    "balumahal",
+    "press archive"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.crsus.2025.100605",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.5281/zenodo.17692625",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/sadiulchyon/bangladesh-sand-watch",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

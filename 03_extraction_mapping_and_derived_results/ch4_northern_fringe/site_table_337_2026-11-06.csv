@@ -1,0 +1,338 @@
+site,type,river,visual_onset,sector,admin0,lon,lat,panel,footprint_2021_25_ha,postban
+E076,Pit extraction,Jaflong (Piyain upper reach),2012-2014,S6,BGD,91.99536,25.16938,g,17.0,stable
+E077,Pit extraction,Piyain below Jaflong,2006-2018,S6,BGD,92.01586,25.11295,g,15.0,stable
+E048,Pit extraction,Pits in dry terrain (Haluaghat area),1996-2014,S3,BGD,90.0128,25.18224,d,14.6,gain
+E008,Pit extraction,Mahananda (border),1999 onward,S1,BGD,88.51402,26.38409,b,7.4,gain
+E045,Possible dredging,Old Brahmaputra branch,2010-2016,S2,BGD,89.90064,25.00761,d,1.8,gain
+E044,Possible dredging,Small river bend,2010-2014,S2,BGD,89.88279,25.08911,d,1.3,stable
+E010,Bar loss,Mahananda (Tetulia),2002,S1,BGD,88.55201,26.33828,b,19.5,stable
+E028,Bar vegetation,Brahmaputra side channel,2011,S2,BGD,89.74132,25.2422,d,,
+E029,Bar vegetation,Brahmaputra side channel,2011-2013,S2,BGD,89.74436,25.29332,d,,
+E030,Bar vegetation,Brahmaputra side channel,2010-2013,S2,BGD,89.78189,25.22551,d,,
+E043,Bar vegetation,Small river,2004,S2,BGD,89.88441,25.04002,d,,
+E064,No signal,Small river,,S5,BGD,91.54529,25.13602,f,,
+E065,No signal,Seasonal pond,,S5,BGD,91.5645,25.06558,f,,
+E067,No signal,Small streams (India),,S5,IND,91.59102,25.14136,f,,
+E069,No signal,Streams near Bholaganj,,S6,BGD,91.7066,25.12924,,,
+E078,No signal,Narrow stream,,S6,BGD,92.09551,25.15636,g,,
+E079,Possible dredging,Sari at Sharighat,1995-2001,S6,BGD,92.10768,25.09444,g,1.4,loss
+E072,Possible dredging,Sari-Goyain at Ratargul,2006-2011,S6,BGD,91.91898,25.0175,g,2.2,stable
+E081,Bar loss,Kushiyara (point bar),2012,S6,BGD,92.15884,24.86091,g,0.6,stable
+E073,Bar loss,Dry sand channel near Jaflong,2011,S6,BGD,91.95857,25.1551,g,0.0,stable
+E058,Bar vegetation,Sandy channel near Tahirpur,2005-2016,S5,BGD,91.22932,25.17048,f,,
+E070,No signal,Small channel near Charkona,,S6,BGD,91.82226,25.15395,g,,
+E006,Floodplain pits,Tetulia floodplain (Mahananda loops),2001-2010,S1,BGD,88.49926,26.43129,b,2.3,stable
+E007,Floodplain pits,Tetulia floodplain,1998-2010,S1,BGD,88.50266,26.41142,b,6.7,stable
+E013,Floodplain pits,Dharla floodplain near Patgram,2005-2010,S1,BGD,88.95298,26.39811,,8.2,stable
+E014,Floodplain pits,Dharla corridor near Patgram,2005-2010,S1,BGD,88.97607,26.39088,,5.4,stable
+E004,Floodplain pits,Karatoya floodplain at the border,2001-2010,S1,IND,88.48736,26.51555,b,8.9,gain
+E001,Floodplain pits,Dahuk River (Tetulia),2005 onward,S1,BGD,88.43336,26.48976,b,5.8,gain
+E003,Floodplain pits,Mahananda bend (Tetulia),2005-2010,S1,BGD,88.48411,26.4534,b,5.6,gain
+E015,Floodplain pits,Dharla floodplain near Patgram,2005-2010,S1,BGD,89.04113,26.33088,,7.5,gain
+E005,Possible dredging,Karatoya (Tetulia),2000,S1,BGD,88.48779,26.48795,b,6.7,gain
+E016,Bar loss,Dharla,2012,S1,BGD,89.06818,26.32725,,0.5,stable
+E017,Bar vegetation,Dharla at the border,2014,S1,BGD,89.08714,26.31974,,,
+E012,Floodplain pits,Dharla near Sreerampur,,S1,BGD,88.93166,26.41183,b,4.8,stable
+E018,No signal,Teesta (braided),,S1,BGD,89.10226,26.15309,,,
+E024,No signal,Dudhkumar/Brahmaputra (India),,S2,IND,89.66534,26.19844,,,
+E025,No signal,Brahmaputra braidplain (India),,S2,IND,89.68031,26.15613,,,
+E026,Bar vegetation,Ghaghot/Teesta side channel (Gaibandha),2012,S2,BGD,89.73842,25.26281,d,,
+E027,Bar vegetation,Ghaghot near Dakatia,2013,S2,BGD,89.73995,25.19556,d,,
+E032,Bar vegetation,Bangali meander,2009-2011,S2,BGD,89.80258,25.16094,d,,
+E033,Bar vegetation,Jamuna-side channel (Gaibandha),2011,S2,BGD,89.81285,25.12508,d,,
+E034,Bar vegetation,Jamuna-side channel (Gaibandha),2011,S2,BGD,89.82461,25.10508,d,,
+E031,Bar loss,Channel near Sundarganj,2010-2014,S2,BGD,89.79245,25.37206,,8.9,stable
+E039,Bar vegetation,Meander bend (Sariakandi side),2016,S2,BGD,89.85121,25.04872,d,,
+E042,Bar loss,Channel bend near Sariakandi,2003-2014,S2,BGD,89.87989,24.99462,d,1.6,stable
+E046,Possible dredging,Old Brahmaputra at Jamalpur,2019-2022,S3,BGD,89.95955,24.92782,d,0.0,gain
+E047,Possible dredging,Old Brahmaputra at Jamalpur,2018-2022,S3,BGD,89.98261,24.91638,d,2.1,gain
+E049,Bar loss,Old Brahmaputra (Jamalpur east),1998-2010,S3,BGD,90.05508,24.88723,d,8.0,stable
+E051,Bar vegetation,Old Brahmaputra,2012,S3,BGD,90.09765,24.87803,d,,
+N01,Pit extraction,Jadukata at Laurergarh (Tahirpur),2021-2024,S5,BGD,91.25,25.2,f,29.4,gain
+N02,Bar vegetation,Dharla at Kurigram bridge,2013,S2,BGD,89.515,25.935,c,,
+N03,No signal,Dharla at Mogolhat (Lalmonirhat),,S2,BGD,89.47,25.995,c,,
+N04,Pit extraction,Dhalai at Bholaganj (Sada Pathor),2005-2010,S6,BGD,91.754,25.169,,26.0,stable
+N05,Pit extraction,Someshwari at Durgapur,2021-2024,S4,BGD,90.663,25.135,e,18.3,gain
+N06,Pit extraction,Dhalai below Bholaganj (Companiganj),2006; large lake 2021-2024,S6,BGD,91.755,25.125,,12.7,loss
+E083,Pit extraction,Lubha at Lubhachorra,2012-2014,S6,BGD,92.30645,25.05036,g,2.3,stable
+E056,Floodplain pits,Chanpur Chora sand fan (India border),2004-2005,S5,IND,91.2082,25.20016,f,0.0,stable
+E036,Bar loss,Border channel near Kurigram (India),2002-2007,S2,IND,89.8302,25.43849,,5.2,stable
+E080,Possible dredging,Sari below Lalakhal,2005-2007,S6,BGD,92.14616,25.1001,g,4.2,stable
+E059,No signal,Surma at Chhatak,,S5,BGD,91.3826,25.06868,f,,
+E053,No signal,Kangsa near Durgapur road,,S4,BGD,90.41848,24.99291,e,,
+E082,Possible dredging,Surma near Kanaighat,2013-2018,S6,BGD,92.21585,24.95918,g,5.6,stable
+E068,Bar loss,Border stream sand fan (India),2010-2024,S6,IND,91.62052,25.13097,f,0.0,stable
+E075,No signal,Sari near Gowainghat,,S6,BGD,91.95877,25.05044,g,,
+E071,No signal,Piyain at Pirer Bazar,,S6,BGD,91.89916,25.12479,g,,
+E074,No signal,Porgona channel near Jaflong,,S6,BGD,91.95871,25.12531,g,,
+E002,Possible dredging,Dahuk channel (Tetulia),2003-2015,S1,BGD,88.43465,26.4689,b,2.4,gain
+E009,Possible dredging,Chauli River near Panchagarh,2007,S1,BGD,88.54487,26.38687,b,9.7,gain
+E011,Possible dredging,Chauli River (upper),2004,S1,BGD,88.55667,26.44074,b,3.2,stable
+E040,Possible dredging,Small channel (Gaibandha side),2000-2010,S2,BGD,89.85175,25.14319,d,1.9,stable
+E037,Bar vegetation,Border channel (India),2010,S2,IND,89.83634,25.68346,c,,
+E060,Pit extraction,Border river at Dolura (Sunamganj Sadar),2015-2017,S5,BGD,91.38464,25.14157,f,90.6,gain
+E061,Possible dredging,Border river below Dolura,2010-2017,S5,BGD,91.39013,25.11163,f,13.2,gain
+E052,No signal,Kangsa meander loops,,S4,BGD,90.38837,25.00922,e,,
+E054,No signal,Kangsa,,S4,BGD,90.43503,25.00454,e,,
+E055,No signal,Kangsa,,S4,BGD,90.50087,25.03081,e,,
+E050,Possible dredging,Malijhi at Jhenaigati,2010-2014,S3,BGD,90.07509,25.19047,d,2.5,stable
+E057,No signal,Haor channel near Tahirpur,,S5,BGD,91.21336,25.04389,f,,
+E062,No signal,Border stream (India),,S5,IND,91.46488,25.1429,f,,
+E063,No signal,Border stream (India),,S5,IND,91.50706,25.14388,f,,
+E066,No signal,Canal near Companiganj road,,S5,BGD,91.57274,25.08707,f,,
+E022,No signal,Teesta braidplain (Rangpur),,S2,BGD,89.56592,25.62351,c,,
+E023,No signal,Teesta braidplain bank,,S2,BGD,89.62668,25.51929,,,
+E035,Bar vegetation,Small channel (Gaibandha),2010,S2,BGD,89.8298,25.16905,d,,
+E038,Bar vegetation,Brahmaputra bank at Dhanirampur (India border),2013,S2,IND,89.8395,25.99884,c,,
+E041,No signal,Border floodplain (India),,S2,IND,89.86828,25.63666,c,,
+E019,No signal,Teesta braidplain (Lalmonirhat),,S1,BGD,89.11016,26.13059,,,
+E020,No signal,Teesta braidplain,,S1,BGD,89.11727,25.97559,,,
+E021,No signal,Teesta braidplain,,S1,BGD,89.15483,25.92875,,,
+N07,Pit extraction,Someshwari at Bijoypur (Durgapur),,S4,BGD,90.659,25.172,,5.3,loss
+N08,Bar loss,Jadukata–Rakti confluence (Tahirpur),2001,S5,BGD,91.236,25.14,f,20.4,stable
+N09,Possible dredging,Rakti at Shaktiarkhola (Tahirpur),2016,S5,BGD,91.272,25.122,f,6.3,stable
+N10,No signal,Mahananda at Banglabandha (border),,S1,BGD,88.41,26.63,,,
+N11,Pit extraction,Chela below the border (Dowarabazar),2007,S6,BGD,91.665,25.11,f,5.4,stable
+N13,Bar vegetation,Dudhkumar at Balabhut (Bhurungamari),2012,S2,BGD,89.65,26.205,,,
+N14,No signal,Bagli border streams into Tanguar Haor (Tahirpur),,S5,BGD,91.07,25.183,f,,
+N12,Bar loss,Mahadeo at Patlaban (Kalmakanda),2014; channel 2019-2022,S4,BGD,90.89,25.158,e,6.7,gain
+N15,Bar loss,Chela (Umiam) above the border at Dalia–Kalatek (India),2010,S6,IND,91.632,25.163,f,6.7,gain
+N17,Bar vegetation,"Teesta entry at Khoga Kharibari, Dimla",2011-2014,S1,BGD,88.975,26.225,,,
+N16,No signal,"Dolura river sand fan above the border (Balat, India)",,S5,IND,91.39,25.183,f,,
+N18,No signal,"Gangadhar (Sankosh) at Berbhangi, Kurigram border (India)",,S2,IND,89.832,26.045,c,,
+N19,Depot / stockpile,Jaflong–Tamabil stone crusher and stockpile yards,1999-2001,S6,BGD,92.022,25.174,g,,
+N20,No signal,Chhatak stone and sand depots (Piyain–Surma confluence),,S6,BGD,91.679,25.047,f,,
+N21,Land filling,Sylhet Hi-Tech Park and sand-filled land (Companiganj road),2018-2021,S6,BGD,91.798,25.057,g,,
+N23,Depot / stockpile,Bholaganj stone crusher yards (Dhalai west bank),2005-2010,S6,BGD,91.754,25.141,,,
+N22,Possible dredging,Old Brahmaputra at Mymensingh city,2021-2025,S4,BGD,90.405,24.765,e,27.3,stable
+N24,No signal,Teesta at the Kaunia bridges (Rangpur–Lalmonirhat),,S2,BGD,89.445,25.785,c,,
+N25,Land filling,"Srihatta Economic Zone (Sherpur, Moulvibazar)",2017-2018,S6,BGD,91.668,24.6265,,,
+N26,Possible dredging,Someshwari below Durgapur (Shibganj to Bhanga bridge),2023-2025,S4,BGD,90.69,25.095,e,15.0,gain
+N27,Pit extraction,Sreepur gravel pits on the Rangpani (Jaintiapur border),2000-2001,S6,BGD,92.073,25.185,g,6.4,stable
+N28,Land filling,Jamalpur Economic Zone,2018-2021,S3,BGD,89.93,24.789,,,
+N29,Land filling,"Dhanua-Kamalpur land port (Bakshiganj, Jamalpur)",2014-2024,S2,BGD,89.863,25.285,d,,
+N30,Depot / stockpile,"Nakugaon land port and the Bhogai entry (Nalitabari, Sherpur)",,S3,BGD,90.219,25.198,d,,
+N31,Bar vegetation,Karatoya at Debiganj (Panchagarh),2012,S1,BGD,88.745,26.095,,,
+N32,Depot / stockpile,"Sonahat land port stone yards (Bhurungamari, Kurigram)",2018-2024,S2,BGD,89.78,26.104,,,
+N33,No signal,Koraitoli–Gobrakura coal depot and border extraction sites (Haluaghat),,S4,BGD,90.33,25.192,d,,
+N34,Pit extraction,Bisnakandi floodplain gravel pits (Gowainghat),2007-2015,S6,BGD,91.888,25.172,g,48.6,stable
+N36,No signal,Banglabandha land port stone stockpiles (Tetulia),,S1,BGD,88.412,26.625,,,
+N37,Land filling,Uttara EPZ industrial land (Nilphamari),2001,S1,BGD,88.865,25.858,,,
+N38,No signal,Tetulia border floodplain at Chekarmari (Mahananda),,S1,BGD,88.418,26.57,b,,
+N40,No signal,Umngot (Piyain) at Shnongpdeng–Dawki above Jaflong (India),,S6,IND,92.014,25.197,g,,
+N41,Land filling,Netrokona University sand-filled campus,2022-2024,S4,BGD,90.757,24.895,e,,
+N43,Land filling,Sunamganj Medical College on filled haor land,2021-2024,S5,BGD,91.3897,24.9724,f,,
+N44,No signal,"Salutikar stone and sand landing ghat (Goyain, Sylhet)",,S6,BGD,91.854,24.991,g,,
+N45,No signal,"Simsang (upper Someshwari) at Baghmara (Meghalaya, India)",,S4,IND,90.645,25.198,,,
+N46,Bar vegetation,Teesta at the Mahipur bridge (Gangachara),2020,S1,BGD,89.255,25.873,,,
+N47,Floodplain pits,Kalairag gravel pits and yards on the Dhalai east bank (Bholaganj),2005-2013,S6,BGD,91.771,25.158,g,13.6,stable
+N48,Bar vegetation,Old Brahmaputra above Jamalpur town,2011-2014,S3,BGD,89.935,24.965,d,,
+N49,Bar vegetation,Mahananda at Siliguri–Fulbari (India),2012-2016,S1,IND,88.405,26.665,,,
+N50,Bar vegetation,Teesta at the Gajoldoba barrage (India),2014,S1,IND,88.59,26.74,,,
+N51,Bar vegetation,Teesta at Jalpaiguri (India),2011-2013,S1,IND,88.75,26.52,b,,
+N54,Bar vegetation,Dharla below the Kurigram bridge,2013-2014,S2,BGD,89.665,25.795,c,,
+N55,No signal,Dhalai (Umiam) gorge above Bholaganj (India),,S6,IND,91.768,25.208,g,,
+N57,No signal,Surma at Sunamganj town,,S5,BGD,91.425,25.08,f,,
+N58,No signal,Ichamati border fan (Companiganj),,S6,BGD,91.676,25.137,f,,
+N52,Bar vegetation,Teesta at Mekhliganj (India),2012-2017,S1,IND,88.875,26.315,b,,
+N53,Bar vegetation,Teesta Barrage at Dalia,2011,S1,BGD,89.055,26.17,,,
+N56,No signal,Surma at Sylhet city,,S6,BGD,91.87,24.887,g,,
+N59,Bar vegetation,Teesta below the Sevoke gorge (India),2016-2023,S1,IND,88.47,26.86,,,
+N60,Bar vegetation,"Mal river at Malbazar (Dooars, India)",2013,S1,IND,88.735,26.855,,,
+N61,No signal,"Diana river at the NH17 bridge (Dooars, India)",,S1,IND,88.955,26.84,,,
+N62,Possible dredging,Torsa at Cooch Behar (India),2002-2004,S2,IND,89.435,26.31,,24.8,stable
+N63,No signal,"Stone crushers and river-bed pits at Ethelbari–Dangapara (Dooars, India)",,S1,IND,89.078,26.715,,,
+N66,No signal,"Jarapata pits by the Sutarkandi land port (Assam, India)",,S6,IND,92.265,24.885,g,,
+N67,Bar vegetation,Brahmaputra at Chilmari,2020-2022,S2,BGD,89.7,25.56,,,
+N68,No signal,Jadukata at Anwarpur ghat (Tahirpur),,S5,BGD,91.215,25.1,f,,
+N64,Bar vegetation,Balason–Mahananda confluence at Siliguri (India),2014-2018,S1,IND,88.37,26.705,,,
+N69,Floodplain pits,Shah Arfin Tila gravel pits (Companiganj),2001-2005; pit lakes 2014,S6,BGD,91.718,25.142,,91.5,gain
+N73,No signal,"Diana River sand and gravel collection at Dhumpara (Dooars, India)",,S1,IND,88.915,26.765,,,
+N74,Bar vegetation,"Balason at Lalsara sand processing plant (Siliguri, India)",2005-2009,S1,IND,88.31,26.755,,,
+N75,No signal,"Leesh river at Bagrakot (Dooars, India)",,S1,IND,88.55,26.87,,,
+N76,Bar vegetation,"Ghish river at Oodlabari (Dooars, India)",2012-2014,S1,IND,88.61,26.86,,,
+N77,Bar vegetation,"Torsa at Phuentsholing–Jaigaon (Bhutan border, India)",2014,S2,IND,89.38,26.855,,,
+N78,No signal,Sankosh at Lamichey–Majathang stone crusher (Bhutan border),,S2,IND,89.755,26.715,,,
+N79,Possible dredging,Atrai at Kushalpur balu mahal (Dinajpur),2004,S1,BGD,88.745,25.724,,18.0,gain
+N80,No signal,Manu at Tarapasha balu mahal (Moulvibazar),,S6,BGD,91.89,24.485,,,
+N81,No signal,Kangsa at Jhanjail balur ghat (Netrakona),,S4,BGD,90.65,25.01,e,,
+N82,No signal,Sankosh at Jaraguri stone crushers (Assam–West Bengal),,S2,IND,89.85,26.49,,,
+N83,No signal,"Torsa at Hasimara, main channel (Dooars, India)",,S2,IND,89.312,26.745,,,
+N84,Depot / stockpile,"Burimari land port stone yards (Patgram, Lalmonirhat)",2001-2005,S1,BGD,88.932,26.397,b,,
+N85,Floodplain pits,"Bhajanpur floodplain gravel pits (Tetulia, Panchagarh)",2001-2005,S1,BGD,88.469,26.485,b,7.2,loss
+N87,No signal,Sand yard on the Borogang floodplain below Jaintiapur,,S6,BGD,92.157,25.124,g,,
+N88,Land filling,Osmani airport expansion fill and stone crusher yards (Sylhet),2014-2018,S6,BGD,91.87,24.96,g,,
+N89,No signal,Kushiyara at Balaganj with sand dump field,,S6,BGD,91.832,24.657,,,
+N90,Land filling,Shahjibazar industrial land fills (Habiganj),2014,S5,BGD,91.375,24.255,,,
+N91,Possible dredging,"Khowai at Rajar Bazar balu mahal (Chunarughat, Habiganj)",2002-2010,S5,BGD,91.5466,24.1499,,2.9,stable
+N92,No signal,Kushiyara at the Sherpur bridge sand landing (Sylhet–Moulvibazar),,S6,BGD,91.6805,24.6299,,,
+N93,No signal,"Ganeshwari at Lengura gravel dredging (Kalmakanda, Netrakona)",,S4,BGD,90.787,25.147,e,,
+N97,No signal,Sari-Goyain at Badaghat sand landing ghats (Sylhet),,S6,BGD,91.79,24.952,g,,
+N98,Bar vegetation,Surma at Lamakazi bridge sand landing (Sylhet),2011-2012,S6,BGD,91.732,24.916,,,
+N99,Possible dredging,Surma at Kandigaon–Kumargaon sand landing (Sylhet),2007-2012,S6,BGD,91.807,24.909,g,4.1,stable
+N100,No signal,Surma at Gobindaganj–Chhatak sand depots (Sunamganj),,S6,BGD,91.6996,24.9301,,,
+N101,Depot / stockpile,Surma at Haripur–Sujatpur sand depots (Sunamganj),,S5,BGD,91.2916,24.9862,f,,
+N102,No signal,Kangsa point bars east of Purbadhala sand pumping (Netrakona),,S4,BGD,90.545,25.022,e,,
+N103,No signal,Surma at Muktirchok sand depots (Sylhet),,S6,BGD,91.9159,24.8746,g,,
+N96,Bar vegetation,"Jadukata at Mailam above the Laurergarh border (Meghalaya, India)",2011,S5,IND,91.368,25.222,f,,
+N104,Bar vegetation,Teesta at Rajpur (Lalmonirhat Sadar),2014,S2,BGD,89.4119,25.8239,c,,
+N105,Bar vegetation,Teesta at Khuniagachh (Lalmonirhat Sadar),2014,S2,BGD,89.3748,25.8526,c,,
+N106,Bar vegetation,Teesta at Mahishkhocha-Gobardhan (Aditmari),2014,S2,BGD,89.3243,25.8734,c,,
+N107,No signal,Teesta at Dahagram (Patgram),,S1,BGD,88.925,26.3,b,,
+N108,No signal,Dudhkumar at Char Bhurungamari,,S2,BGD,89.7395,26.1311,,,
+N109,No signal,Katakhali west of Beltail Bridge (Melandaha),,S2,BGD,89.825,24.895,d,,
+N110,Bar vegetation,Jamuna side channel at Sarishabari east-bank embankment,2010,S2,BGD,89.8149,24.7404,,,
+N111,No signal,Jamuna at Madarganj,,S2,BGD,89.645,24.9,,,
+N112,Bar vegetation,Old Brahmaputra at Char Madakhali (Trishal),2011,S4,BGD,90.5191,24.5199,,,
+N113,Bar vegetation,Khowai at Shayestaganj,2010,S5,BGD,91.4692,24.2826,,,
+N114,Bar loss,Kalghosha in Kangsa union (Jhenaigati),2004,S3,BGD,90.0,25.24,d,18.1,loss
+N115,Bar vegetation,Barak-Netai at Ghoshgaon (Dhobaura-Haluaghat),2010,S4,BGD,90.515,25.15,e,,
+N116,No signal,Bhogai at Nalitabari,,S3,BGD,90.1985,25.0883,d,,
+N117,Bar vegetation,Surma at Zakiganj,2010,S6,BGD,92.3805,24.8644,g,,
+N118,No signal,Bhunabir silica sand (Sreemangal),,S6,BGD,91.653,24.332,,,
+N119,No signal,Islampur silica sand and hill cutting (Kamalganj),,S6,BGD,91.867,24.224,,,
+N120,No signal,Chunarughat hill-stream silica sand,,S5,BGD,91.52,24.2,,,
+N121,No signal,Dahuk at the Banglabandha reach,,S1,BGD,88.4327,26.527,b,,
+N122,Bar vegetation,Sand depot point on the Jamuna side channel near Islampur,2010,S2,BGD,89.8079,25.0801,d,,
+N123,No signal,"Inventory ""floodplain mining?"" point in Assam",,S2,IND,89.8151,25.4559,,,
+N124,Bar vegetation,Karnaijohra Khal,2004,S3,BGD,89.9373,25.2513,d,,
+N125,No signal,Karnaijohra Khal in Meghalaya,,S3,IND,89.9447,25.2979,d,,
+N126,No signal,Chilakhali,,S3,BGD,90.0053,25.1993,d,,
+N127,Bar vegetation,Sand deposit point on the Old Brahmaputra,2007,S3,BGD,90.0072,24.8826,d,,
+N128,No signal,Malijhi on the Meghalaya side,,S3,IND,90.1067,25.2109,d,,
+N129,No signal,Chel Akhali,,S3,BGD,90.1555,25.1689,d,,
+N130,No signal,Chel Akhali lower reach,,S3,IND,90.1707,25.1966,d,,
+N131,No signal,Bhogai upper reach,,S3,BGD,90.1964,25.1261,d,,
+N132,No signal,Bhogai at Nalitabari (records 8 and 9),,S3,BGD,90.1977,25.0469,d,,
+N133,No signal,Bhogai at the border (upper record),,S3,BGD,90.2046,25.164,d,,
+N134,Bar vegetation,Sand deposit point on the Old Brahmaputra west of Mymensingh,2001,S3,BGD,90.2326,24.8731,d,,
+N135,No signal,Bhogai below Nalitabari (record 10),,S3,BGD,90.2386,25.0197,d,,
+N136,No signal,Bhogai records 2 to 7 downstream,,S3,BGD,90.2882,24.994,d,,
+N137,No signal,Sand deposit point near Haluaghat,,S4,BGD,90.366,25.0035,e,,
+N138,No signal,Sand deposit point (34 ha AOI),,S4,BGD,90.3984,24.9931,e,,
+N139,No signal,"Inventory note ""all sand here used for agriculture or building"" near Haluaghat",,S4,BGD,90.4457,25.1107,e,,
+N140,No signal,Sand deposit points near Phulpur,,S4,BGD,90.4691,25.0094,e,,
+N141,Depot / stockpile,Sand deposit points near Purbadhala,,S4,BGD,90.5164,25.0245,e,,
+N142,No signal,Ship depot point on the Kangsa east of Purbadhala,,S4,BGD,90.5934,25.0342,e,,
+N143,No signal,Ship point on the Kangsa near Purbadhala,,S4,BGD,90.6294,25.0358,e,,
+N144,Possible dredging,Ship point on the Someshwari-Kangsa channel north of Purbadhala,2013,S4,BGD,90.6423,25.0731,e,9.2,stable
+N145,No signal,Kangsa river point west of Jaria,,S4,BGD,90.7001,24.9935,e,,
+N146,No signal,Goneshwari (record 4) near Durgapur,,S4,BGD,90.7067,25.1313,e,,
+N147,No signal,Someshwari records south of Durgapur,,S4,BGD,90.731,25.0894,e,,
+N148,No signal,Goneshwari floodplain and Someshwari records near Durgapur,,S4,BGD,90.7465,25.1343,e,,
+N149,No signal,Shaneswar river points,,S4,BGD,90.7493,25.0554,e,,
+N150,No signal,Gunai river records,,S4,BGD,90.7517,24.9975,e,,
+N151,No signal,Nodi-Someshwari records south of Durgapur,,S4,BGD,90.7942,25.0942,e,,
+N152,No signal,Gunai river (record 6),,S4,BGD,90.7983,25.0256,e,,
+N153,No signal,Goneshwari (record 3),,S4,BGD,90.8198,25.1215,e,,
+N154,No signal,"Gunai and ""small river"" records near Jaria",,S4,BGD,90.8331,25.0009,e,,
+N155,Depot / stockpile,Ship point near Mohanganj,,S4,BGD,90.8341,24.9544,e,,
+N156,No signal,Gunai and Nodi records with ships,,S4,BGD,90.8354,25.0639,e,,
+N157,No signal,Small stream records in Meghalaya above Durgapur,,S4,IND,90.8383,25.1531,e,,
+N158,No signal,Ship depot point near Kalmakanda,,S4,BGD,90.9007,24.9874,e,,
+N159,No signal,Patlaban records beside the N12 window on the Mahadeo,,S4,BGD,90.9164,25.1163,e,,
+N160,No signal,Small river record east of Kalmakanda,,S5,BGD,90.951,25.0146,e,,
+N161,No signal,Ship depots in the Dharmapasha haor,,S5,BGD,90.9987,25.0576,e,,
+N162,No signal,Ship depot in the haor west of Dharmapasha,,S5,BGD,91.0387,25.0616,f,,
+N163,No signal,Ship depots in the Tahirpur haors west of the Jadukata,,S5,BGD,91.079,25.019,f,,
+N164,No signal,"Boat station, sand deposits and ships at Tanguar-Matian haor margin",,S5,BGD,91.1025,25.0775,f,,
+N165,No signal,Ship depot on a haor channel south of Dharmapasha,,S5,BGD,91.1118,24.9107,f,,
+N166,No signal,Lakmachora and ship and sand deposit records at the north edge of the haor above Tahirpur,,S5,BGD,91.1273,25.1704,f,,
+N167,No signal,Sand deposit point south of Tahirpur,,S5,BGD,91.1321,24.9675,f,,
+N168,No signal,Ship depots in the Tahirpur haor (south),,S5,BGD,91.1442,25.0427,f,,
+N169,No signal,Multiple ship depots on a haor channel south of Jamalganj,,S5,BGD,91.1628,24.8768,f,,
+N170,No signal,Sand deposit and ship depot records in the haors near Jamalganj,,S5,BGD,91.1802,24.9731,f,,
+N171,No signal,Ship depot and sand deposits on the Surma meanders west of Sunamganj,,S5,BGD,91.2434,24.9988,f,,
+N172,No signal,Ship depot in the haor east of Jamalganj,,S5,BGD,91.2526,25.0928,f,,
+N173,Depot / stockpile,Sand deposit on the Surma above Sunamganj,,S5,BGD,91.3262,24.9976,f,,
+N174,No signal,Sand deposits and ship depot on the Surma at Sunamganj (west of N57),,S5,BGD,91.3731,25.0415,f,,
+N175,Possible dredging,"Wah Umngi (Jadukata) in Meghalaya above the border, inventory named feature",2016,S5,IND,91.3865,25.1622,f,20.8,gain
+N176,Possible dredging,Ships parked on the river below the Tahirpur border (inventory),2014,S5,BGD,91.3873,25.1272,f,10.1,gain
+N177,Possible dredging,"Sand deposit, ship depot and inventory note on the same reach downstream",2007,S5,BGD,91.3898,25.0874,f,17.1,stable
+N178,No signal,Sand deposit and brickfield points on the Surma near Chhatak,,S5,BGD,91.4748,25.0798,f,,
+N179,No signal,Sand deposits on the Surma east of Sunamganj,,S5,BGD,91.5221,25.0697,f,,
+N180,No signal,Sand deposits on the Surma at Gobindaganj,,S5,BGD,91.5569,25.0351,f,,
+N181,No signal,Sand deposits on the Surma west of Chhatak,,S6,BGD,91.6067,25.0126,f,,
+N182,No signal,Ship depot and sand deposit on the Surma near Sunamganj (east),,S6,BGD,91.6423,25.0187,f,,
+N183,No signal,"Pitfield window on the inventory note ""floodplain mined out?"", sand deposit and ship deposit near Tahirpur",,S6,BGD,91.6952,25.0626,,,
+N184,No signal,Jadukata records 4 and 5 (a side stream west of the Jadukata fan),,S6,BGD,91.7018,25.0982,,,
+N185,No signal,Ship depot on the Surma below Chhatak,,S6,BGD,91.7525,24.9061,,,
+N186,Depot / stockpile,Ship depot in the haor north of Chhatak,,S6,BGD,91.7675,25.052,g,,
+N187,Depot / stockpile,"""Shada Pathor"" records with trucks and a ship depot on the Dhalai below Companiganj",,S6,BGD,91.776,25.0875,g,,
+N188,No signal,"Pitfield window on the inventory note ""floodplain mining or flooding?"" in Meghalaya above Bholaganj",,S6,IND,91.8246,25.1734,g,,
+N189,No signal,Sand deposits and an abandoned-boat note in the haor south of Companiganj,,S6,BGD,91.8267,24.9676,g,,
+N190,No signal,"Pitfield window on the inventory note ""new facility since 201x"" near the Bholaganj road",,S6,BGD,91.8453,25.1434,g,,
+N191,No signal,Bichnakandi boat station and Goyain records below the N34 window,,S6,BGD,91.9058,25.144,g,,
+N192,No signal,Bisnakandi record 3 on the Goyain above the N34 window,,S6,BGD,91.9224,25.1692,g,,
+N193,No signal,Sand deposit on the Surma west of Sylhet,,S6,BGD,91.9351,25.0235,g,,
+N194,No signal,"""Large ship activity"" on the Sari-Goyain below Gowainghat",,S6,BGD,91.9841,25.0931,g,,
+N195,No signal,Ship depot on the Surma east of Sylhet,,S6,BGD,92.0039,24.8572,g,,
+N196,No signal,Ship depot and sand deposit on the Sari near Jaintiapur,,S6,BGD,92.0897,25.0903,g,,
+N197,No signal,Shari-Goyain record above Gowainghat,,S6,BGD,92.1843,25.118,g,,
+N198,No signal,Sand deposit on the Kushiyara near Beanibazar,,S6,BGD,92.1932,24.8922,g,,
+N199,No signal,Ships on the Surma at Kanaighat,,S6,BGD,92.2608,25.0041,g,,
+N200,No signal,Surma record near Kanaighat,,S6,BGD,92.2973,25.0288,g,,
+N201,No signal,Lubachhara (Lubha) in Meghalaya above the border,,S6,IND,92.3452,25.0593,g,,
+N202,No signal,Sand deposit on the Kushiyara at the Zakiganj border,,S6,BGD,92.401,24.9874,g,,
+N203,Bar vegetation,Jadukata fan south edge below Laurergarh,2012,S5,BGD,91.2749,25.1665,f,,
+N204,Bar vegetation,Foothill river bed at the Bhutan border (Dagana),2013,S2,BTN,89.9039,26.7595,,,
+N205,No signal,Meghna at the Ashuganj-Bahadurpur sand landing (Daily Star/bdnews24 reports 2026),,S5,BGD,90.9977,24.0355,,,
+N206,Bar vegetation,"Old Brahmaputra at Jangalia-Char Kaona, Pakundia (Muniyarikanda dredging reported, Khoborsangjog)",2005,S4,BGD,90.64,24.37,,,
+N207,Possible dredging,"Old Brahmaputra at Char Mirzapur, Pakundia, where a dredger was fined at the Chairmanbari ghat in October 2026 (FVN News)",2012,S4,BGD,90.6455,24.2999,,16.4,gain
+N208,No signal,"Fuljor at Raiganj, pitfield window for the highway sand fill reported in 2023 (Prothom Alo)",,S2,BGD,89.519,24.503,,,
+N209,No signal,Sand landings on the river bank near Narsingdi seen on 2025 Sentinel-2,,S4,BGD,90.5771,23.9105,,,
+N210,Land filling,Sand-filled plots beside the Shitalakshya (Rupganj) seen on 2025 Sentinel-2,2010,S4,BGD,90.5473,23.8295,,,
+N211,Land filling,Sand-filled plots east of the Shitalakshya (Purbachal side) seen on 2025 Sentinel-2,2016,S4,BGD,90.6069,23.8295,,,
+N212,Land filling,Sand fill on the Shitalakshya bank at Demra seen on 2025 Sentinel-2,2013,S4,BGD,90.5175,23.7485,,,
+N213,No signal,Jamuna west-bank sand stockpiles seen on 2025 Sentinel-2,,S2,BGD,89.7427,24.3425,,,
+N214,No signal,Jamuna east-bank sand stockpiles seen on 2025 Sentinel-2,,S2,BGD,89.8321,24.4235,,,
+N215,Land filling,Sand fill on the Turag floodplain at Aminbazar seen on 2025 Sentinel-2,2016,S4,BGD,90.3089,23.7215,,,
+N216,No signal,Old Brahmaputra floodplain north of Mymensingh (neighbor of N22),,S4,BGD,90.4403,24.7885,e,,
+N217,No signal,"Old Brahmaputra floodplain north of Mymensingh, upper cell",,S4,BGD,90.4403,24.8155,e,,
+N218,Bar vegetation,Old Brahmaputra west of Mymensingh (neighbor of N22),2003,S4,BGD,90.3807,24.7075,e,,
+N219,Bar vegetation,"Old Brahmaputra west of Mymensingh, upper cell",2005,S4,BGD,90.3807,24.7345,e,,
+N220,Bar vegetation,Old Brahmaputra floodplain east of Mymensingh,2005,S4,BGD,90.4701,24.7615,e,,
+N221,No signal,Atrai below Kushalpur (neighbor of N79),,S1,BGD,88.7417,25.6795,,,
+N222,No signal,"Atrai below Kushalpur, west cell",,S1,BGD,88.7119,25.6795,,,
+N223,Bar vegetation,Atrai above Kushalpur (neighbor of N79),2005,S1,BGD,88.7417,25.7605,,,
+N224,Bar vegetation,Old Brahmaputra below the E042 bar loss,2003,S2,BGD,89.8443,25.0045,d,,
+N225,Bar vegetation,Mahananda below the E010 bar loss (Tetulia),2010,S1,BGD,88.5927,26.3005,b,,
+N226,Bar vegetation,"Mahananda at the E010 bar loss, upper cell (Tetulia)",2010,S1,BGD,88.5927,26.3275,b,,
+N227,No signal,River cell above the E050 dredging (Sherpur),,S3,BGD,90.0529,25.1665,d,,
+N228,No signal,River cell beside the E050 dredging (Sherpur),,S3,BGD,90.0827,25.1395,d,,
+N229,Bar vegetation,Floodplain and channel beside the E015 pit fields,2012,S1,BGD,89.0099,26.3545,,,
+N230,Bar vegetation,Floodplain beside the E013 pit fields (West Bengal side),2011,S1,IND,88.9205,26.4355,b,,
+N231,Bar vegetation,River beside the E016 bar loss,2013,S1,BGD,89.1291,26.3005,,,
+N232,No signal,Someshwari-Kangsa channel above N144,,S4,BGD,90.5893,25.0855,e,,
+N233,Possible dredging,Old Brahmaputra beside the E046 dredging (Jamalpur),2007,S3,BGD,89.9337,24.8965,d,2.4,loss
+N234,Possible dredging,Piyain (below Jaflong),2016-2017,S6,BGD,92.02,25.1535,g,10.0,stable
+N235,Depot / stockpile,Old Brahmaputra below Jamalpur,2025,S3,BGD,90.152,24.877,d,,
+N236,Bar vegetation,Old Brahmaputra near Piyarpur,2012,S3,BGD,90.121,24.875,d,,
+N237,Bar vegetation,Old Brahmaputra with loop channel,2010,S3,BGD,90.181,24.9,d,,
+N238,Depot / stockpile,Old Brahmaputra at Bhangnamari (Gauripur),2021,S4,BGD,90.472,24.688,,,
+N239,Bar vegetation,Old Brahmaputra at Char Pakshimari,2013,S3,BGD,89.952,24.954,d,,
+N240,No signal,"Hill-foot stream, Jhenaigati border",,S3,BGD,90.002,25.279,d,,
+N241,Possible dredging,Tangon at Kastor (Pirganj),2014,S1,BGD,88.3854,25.8354,,10.2,stable
+N242,Bar vegetation,Teesta at Bhendabari (Dimla),2012,S1,BGD,89.0794,26.1139,,,
+N243,Bar vegetation,Jamuneshwari at Chandkhana,2004,S1,BGD,89.0349,25.8293,,,
+N244,No signal,Deonai near Dubachhuri,,S1,BGD,88.8771,26.0354,,,
+N245,Possible dredging,Old Brahmaputra at Charjothartopur (Jamalpur),2006,S3,BGD,89.996,24.9025,d,5.9,stable
+N246,Bar vegetation,Old Brahmaputra at Narundi (Jamalpur),2012,S3,BGD,90.1199,24.8699,d,,
+N247,Bar vegetation,Brahmaputra-Jamuna at Goaler Char (Islampur),2011,S2,BGD,89.8065,25.1335,d,,
+N248,No signal,Mrigi at Sherpur town,,S3,BGD,90.0092,24.9844,d,,
+N249,Possible dredging,Bhogai at Kerengapara-Phulpur (Nalitabari),2013,S3,BGD,90.2027,25.1459,d,21.2,gain
+N250,Bar vegetation,Old Brahmaputra at Borer Char-Tarapur,2009,S3,BGD,90.27,24.8602,d,,
+N251,Possible dredging,Old Brahmaputra at Char Dhari Kushtia,2022,S3,BGD,90.2765,24.8324,,5.1,gain
+N252,Depot / stockpile,Old Brahmaputra at Char Nilakshia,2020,S4,BGD,90.4622,24.716,e,,
+N253,Depot / stockpile,Old Brahmaputra at Char Algi,2020,S4,BGD,90.5107,24.623,,,
+N254,No signal,Talma at Madhupara-Sardarpara (Panchagarh Sadar),,S1,BGD,88.5912,26.4148,b,,
+N255,Floodplain pits,Chawai at Omarpur-Pradhanpara (Panchagarh Sadar),2011,S1,BGD,88.5105,26.4066,b,8.1,stable
+N256,Floodplain pits,Karatoya at Dhakkamara (Panchagarh Sadar),2012,S1,BGD,88.5383,26.3737,b,2.0,stable
+N257,Bar vegetation,Ghoramara at Naotari-Tokrabhasa (Boda),2006,S1,BGD,88.6957,26.2602,b,,
+N258,No signal,Karatoya at Sonapota-Sultanpur (Debiganj),,S1,BGD,88.728,26.1457,,,
+N259,Bar vegetation,Mahananda at Khanji Kismat (Tetulia),2006,S1,BGD,88.3779,26.5914,b,,
+N260,No signal,"Tarafsadi balu mahal (Mithapukur, Rangpur)",,S1,BGD,89.168,25.499,,,
+N261,Bar loss,Mahananda bar pits SW of Siliguri (India),2013,S1,IND,88.251,26.465,,3.5,loss
+N262,Bar loss,Mahananda bar pits at Siliguri (India),2013,S1,IND,88.401,26.691,,0.0,gain
+N263,Floodplain pits,Floodplain pit field north of E004 (India),2010,S1,IND,88.484,26.537,b,11.5,gain
+N264,Possible dredging,Punarbhaba channel re-excavation (Rangpur),2004,S1,BGD,88.604,25.812,,55.2,stable

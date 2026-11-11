@@ -1,0 +1,33 @@
+reach,district,balu_mahal,river,lon,lat,ch4_site,ch4_class_onset,status_2026_vs_2024_25,evidence_s2
+B01,Sunamganj,Chela-Mara,Chela,91.6741,25.1106,N11,Pit extraction (2007),No visible change,Narrow sandy channel; no new pits or dumps on S2 2024-2026
+B02,Sunamganj,Khasiamara,Khasiamara,91.5771,25.1396,E067,No signal,Not resolvable,Channel not visible at 10 m
+B03,Sunamganj,Maharam (Rajai),Maharam,,,,,Not placed,Rajai mouza not located
+B04,Sunamganj,Jadukata-1 and -2 (Chaliarghat),Jadukata,91.251,25.2,N01,Pit extraction (2021-2024),Active 2026,"Water-filled pits on the fan bar in 2024, 2025 and 2026, reworked each year"
+B06,Panchagarh,Karatoya group 3,Karatoya,88.5531,26.3316,E010,Bar loss (2002),No visible change,Bars stable 2024-2026
+B07,Thakurgaon,Tangon (Kastor),Tangon,88.3854,25.8354,N241,"Possible dredging (2014, low)",No visible change,Channel water-filled since 2014
+B08,Nilphamari,Bhendabari,Teesta,89.0794,26.1139,N242,Bar vegetation (2012),No visible extraction,Cultivation plots on chars in 2025
+B09,Nilphamari,Chandkhana,Jamuneshwari,89.0349,25.8293,N243,Bar vegetation (2004),No visible change,
+B10,Nilphamari,Dubachhuri,Deonai,88.8771,26.0354,N244,No signal,No visible change,Narrow channel
+B11,Kurigram,"Kalir Hat (Ramhari, Chatura)",not stated,,,,,Not placed,Mouzas not located
+B12,Jamalpur,Chhonkanda Charjothartopur,Old Brahmaputra,89.996,24.9025,N245,"Possible dredging (2006, low)",No visible change,Uniform dredged channel; brickfield on west bank
+B13,Jamalpur,Nandina Narundi Piyarpur,Old Brahmaputra,90.1199,24.8699,N246,Bar vegetation (2012),Possible activity 2025-2026,New bright patch (stockpile or fill) on the north bank
+B14,Jamalpur,Naobhanga,Brahmaputra,,,,,Not placed,Listed as silted
+B15,Jamalpur,Rashidpur Chandra,Brahmaputra-Jhenai,89.9779,24.7629,,,Not resolvable,Channel not visible at 10 m
+B16,Jamalpur,Goalinirchar,Brahmaputra-Jamuna,89.8065,25.1335,N247,Bar vegetation (2011),No visible extraction,New compound or fill west of channel 2025-2026
+B17,Sherpur,Mrigi,Mrigi,90.0092,24.9844,N248,No signal,Not resolvable,Too narrow
+B18,Sherpur,Char Pakshimari,Old Brahmaputra,89.9483,24.9532,N239,Bar vegetation (2013),Possible activity 2026,Bright dumps on the east bank in 2026 (list: digging ongoing)
+B19,Sherpur,Chellakhali,Chellakhali,90.1606,25.1561,N129,No signal,No visible change,Sandy stream
+B20,Sherpur,Bhogai,Bhogai,90.2027,25.1459,N249,Possible dredging (2013),No visible change,Bars absent since 2013; continuous water
+B21,Sherpur,Burunga-Andharupara Baigarpara,Bhogai tributaries,90.1571,25.1812,N129,No signal,No visible change,Sandy streams
+B22,Sherpur,Bongaon Badechallish Kahnia,not stated,90.0729,25.1604,N228,No signal,Not resolvable,Channel not visible at 10 m
+B23,Sherpur,Maharshi,Maharshi,90.0984,25.2049,N128,No signal,Transient 2025,Bright patch beside the stream in 2025 only
+B24,Sherpur,Paglarmukh,Malijhi,90.0604,25.1229,,,Not resolvable,Channel not visible at 10 m
+B25,Sherpur,Taoakocha,border stream,89.9919,25.2469,N114,Bar loss (2004),No visible change,
+M1,Mymensingh,BIWTA lots Borer Char-Tarapur,Old Brahmaputra,90.27,24.8602,N250,Bar vegetation (2009),No visible change,
+M2,Mymensingh,BIWTA lots Char Dhari Kushtia,Old Brahmaputra,90.2765,24.8324,N251,Possible dredging (2022),Active 2026,Bar cut in 2022; new dump or haul track in 2026
+M3,Mymensingh,BIWTA lots Char Shyamrampur,Old Brahmaputra,90.3199,24.8459,,,Not resolvable,Snapped point off the main channel
+M4,Mymensingh,BIWTA lots Char Jelkhana,Old Brahmaputra,90.366,24.7907,N22 (4.9 km),,Fill present 2024-2026,"Bright rectangular fill about 200 m across, unchanged 2024-2026"
+M5,Mymensingh,BIWTA lots Char Ishwardia,Old Brahmaputra,90.4196,24.7599,N22,Possible dredging (2021-2025),Active 2026,Bank sand yards reworked 2024-2026
+M6,Mymensingh,BIWTA lots Char Nilakshia,Old Brahmaputra,90.4622,24.716,N252,Depot / stockpile (2020),Active 2026,Dumps reworked every year 2020-2026
+M7,Mymensingh,BIWTA lots Bhangnamari-Khodabakshpur-Char Bhabkhali,Old Brahmaputra,90.4751,24.6907,N238,Depot / stockpile (2021),Active (drawdown) 2026,"Stockpiles 2021-2025, smaller in 2026"
+M8,Mymensingh,BIWTA lots Char Algi,Old Brahmaputra,90.5107,24.623,N253,Depot / stockpile (2020),Active 2026,Dumps 2020-2026

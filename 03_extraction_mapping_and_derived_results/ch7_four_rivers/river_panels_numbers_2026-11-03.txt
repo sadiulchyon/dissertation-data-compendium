@@ -1,0 +1,50 @@
+RF CL49 Laurergarh: all -0.27 (-0.64, +0.27) SD/dec; DJFM -0.20 (-0.64, +0.47)
+   decade means: [None, np.float64(0.01), np.float64(-0.15), np.float64(0.06)]
+Q SW131.5 Laurergarh: all +0.14 (-0.14, +0.39) SD/dec; DJFM -0.30 (-0.58, +0.13)
+   decade means: [np.float64(0.19), np.float64(-0.32), np.float64(0.02), np.float64(0.23)]
+WL SW131.5 Laurergarh: all -0.89 (-0.96, -0.81) SD/dec; DJFM -0.95 (-1.02, -0.87); m/dec all -1.10 (-1.25, -0.93) DJFM -1.58 (-1.67, -1.53)
+   decade means: [np.float64(1.28), np.float64(0.29), np.float64(-0.5), np.float64(-0.92)]
+GW SY102 Tahirpur: all -0.57 (-0.91, +0.24) SD/dec; DJFM -0.32 (-0.76, +0.46); m/dec all -0.80 (-1.38, +0.20) DJFM -0.37 (-1.28, +0.53)
+   decade means: [np.float64(0.3), np.float64(-0.05), None, None]
+SW131.5 Laurergarh: DJFM median Q 20.20; stage at Q: 1990s 5.95 [5.81,6.12] n=17, 2000s 4.90 [4.80,5.01] n=65, 2010s 2.84 [2.68,2.99] n=63, 2020–26 2.09 [1.98,2.21] n=68
+RF CL228 Kanaighat: all -0.59 (-0.73, -0.43) SD/dec; DJFM -0.57 (-0.72, -0.40)
+   decade means: [np.float64(0.94), np.float64(-0.16), np.float64(-0.01), np.float64(-0.96)]
+Q SW326 Lubhachorra: all -1.13 (-1.50, -0.72) SD/dec; DJFM -1.48 (-2.01, -0.92)
+   decade means: [None, None, np.float64(0.27), np.float64(-0.43)]
+WL SW326 Lubhachorra: all -0.31 (-0.52, -0.14) SD/dec; DJFM -0.29 (-0.63, +0.16); m/dec all -0.23 (-0.36, -0.09) DJFM -0.13 (-0.29, +0.03)
+   decade means: [np.float64(0.29), np.float64(0.29), np.float64(0.0), np.float64(-0.43)]
+GW SY087 Kanaighat: all -0.76 (-0.90, -0.58) SD/dec; DJFM -0.80 (-0.91, -0.61); m/dec all -0.36 (-0.45, -0.25) DJFM -0.37 (-0.45, -0.26)
+   decade means: [np.float64(0.85), np.float64(0.23), np.float64(-0.15), np.float64(-1.28)]
+SW326 Lubhachorra: DJFM median Q 6.90; stage at Q: 1990s nan [nan,nan] n=0, 2000s nan [nan,nan] n=0, 2010s 4.71 [4.62,4.80] n=47, 2020–26 4.76 [4.66,4.89] n=54
+RF CL48 Jaflong: all -0.44 (-0.83, -0.10) SD/dec; DJFM -0.41 (-0.81, +0.05)
+   decade means: [np.float64(0.96), np.float64(0.39), np.float64(-0.29), np.float64(-0.25)]
+Q SW233 Ratnar bhanga: all -0.26 (-0.46, +0.04) SD/dec; DJFM +nan (+nan, +nan)
+   decade means: [np.float64(0.33), np.float64(0.2), np.float64(-0.43), np.float64(-0.04)]
+Q SW233A Jaflong Spill: all -0.19 (-0.40, +0.11) SD/dec; DJFM -0.33 (-0.69, +0.18)
+   decade means: [np.float64(-0.11), np.float64(0.3), np.float64(-0.12), np.float64(-0.11)]
+WL SW233 Ratnar bhanga: all -0.62 (-0.77, -0.46) SD/dec; DJFM -0.94 (-1.37, -0.66); m/dec all -0.42 (-0.52, -0.33) DJFM -0.56 (-0.65, -0.44)
+   decade means: [np.float64(0.65), np.float64(-0.55), np.float64(-0.23), np.float64(-0.76)]
+WL SW233A Jaflong Spill: all -0.90 (-0.99, -0.81) SD/dec; DJFM -1.04 (-1.16, -0.92); m/dec all -0.77 (-1.13, -0.56) DJFM -1.20 (-2.08, -0.65)
+   decade means: [np.float64(0.94), np.float64(0.43), np.float64(-0.1), np.float64(-0.99)]
+SW233 Ratnar bhanga: DJFM median Q 6.83; stage at Q: 1990s 8.28 [8.23,8.32] n=33, 2000s 7.61 [7.44,7.78] n=12, 2010s 8.34 [8.23,8.46] n=32, 2020–26 7.28 [7.15,7.41] n=60
+SW233A Jaflong Spill: DJFM median Q 10.92; stage at Q: 1990s 7.39 [7.34,7.44] n=20, 2000s 7.14 [7.05,7.23] n=70, 2010s 6.42 [6.31,6.52] n=71, 2020–26 3.96 [3.80,4.12] n=83
+RF CL116 Lallakhal: all -0.26 (-0.44, -0.05) SD/dec; DJFM -0.21 (-0.39, +0.10)
+   decade means: [np.float64(0.49), np.float64(0.22), np.float64(-0.46), np.float64(-0.05)]
+Q SW251 Sharighat: all -0.15 (-0.33, +0.09) SD/dec; DJFM -0.10 (-0.42, +0.22)
+   decade means: [np.float64(0.03), np.float64(0.23), np.float64(-0.04), np.float64(-0.25)]
+WL SW251 Sharighat: all -0.60 (-0.69, -0.49) SD/dec; DJFM -0.80 (-0.90, -0.69); m/dec all -0.38 (-0.52, -0.27) DJFM -0.52 (-0.67, -0.32)
+   decade means: [np.float64(0.62), np.float64(0.14), np.float64(-0.16), np.float64(-0.9)]
+WL SW252 Gowainghat: all -0.45 (-0.56, -0.32) SD/dec; DJFM -0.65 (-0.78, -0.50); m/dec all -0.25 (-0.32, -0.16) DJFM -0.28 (-0.37, -0.18)
+   decade means: [np.float64(0.47), None, np.float64(-0.09), np.float64(-0.58)]
+GW SY060 Jaintiapur: all -0.48 (-0.65, -0.31) SD/dec; DJFM -0.51 (-0.71, -0.25); m/dec all -0.19 (-0.26, -0.11) DJFM -0.18 (-0.27, -0.07)
+   decade means: [np.float64(0.37), np.float64(0.24), np.float64(-0.18), np.float64(-0.57)]
+SW251 Sharighat: DJFM median Q 9.66; stage at Q: 1990s 4.81 [4.77,4.84] n=75, 2000s 4.55 [4.51,4.60] n=66, 2010s 4.14 [4.06,4.22] n=73, 2020–26 3.16 [3.13,3.20] n=86
+RF CL49 Laurergarh: all -0.27 (-0.64, +0.27) SD/dec; DJFM -0.20 (-0.64, +0.47)
+   decade means: [None, np.float64(0.01), np.float64(-0.15), np.float64(0.06)]
+Q SW131.5 Laurergarh: all +0.14 (-0.14, +0.39) SD/dec; DJFM -0.30 (-0.58, +0.13)
+   decade means: [np.float64(0.19), np.float64(-0.32), np.float64(0.02), np.float64(0.23)]
+WL SW131.5 Laurergarh: all -0.89 (-0.96, -0.81) SD/dec; DJFM -0.95 (-1.02, -0.87); m/dec all -1.10 (-1.25, -0.93) DJFM -1.58 (-1.67, -1.53)
+   decade means: [np.float64(1.28), np.float64(0.29), np.float64(-0.5), np.float64(-0.92)]
+GW SY102 Tahirpur: all -0.57 (-0.91, +0.24) SD/dec; DJFM -0.32 (-0.76, +0.46); m/dec all -0.80 (-1.38, +0.20) DJFM -0.37 (-1.28, +0.53)
+   decade means: [np.float64(0.3), np.float64(-0.05), None, None]
+SW131.5 Laurergarh: DJFM median Q 20.02; stage at Q: 1990s 5.95 [5.81,6.12] n=17, 2000s 4.89 [4.79,5.00] n=65, 2010s 2.83 [2.68,2.99] n=63, 2020–26 2.10 [2.00,2.22] n=67

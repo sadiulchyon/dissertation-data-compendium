@@ -1,0 +1,5 @@
+river,rain_station,rain_years,rain_n_years,rain_annual_mean_mm,rain_annual_min_mm,rain_annual_max_mm,pct_jun_oct,pct_mar_may,wl_station,wl_years,wl_annual_range_median_m,wl_annual_range_min_m,wl_annual_range_max_m,wl_low_month,wl_high_month,q_years,q_n,q_dry_median_m3s,q_monsoon_median_m3s,q_max_measured_m3s,gw_station,gw_years,gw_depth_marapr_m,gw_depth_augoct_m
+Lubha,CL228 Kanaighat,1990-1999,10,5046,4039,5979,68,28,SW326 Lubachara,1990-1999,9.6,8.5,10.8,2,7,2010-2019,205,9.8,333,974,SY087 Kanairghat,1990-1999,4.6,3.6
+Sari-Gowain,CL116 Lalakhal,1990-1999,10,5886,5169,6715,71,27,SW251 Sarighat,1990-1999,7.7,7.4,8.5,1,7,1990-1999,235,9.9,254,963,SY060 Jaintiapur,1990-1999,2.5,0.6
+Piyain,CL48 Jaflong,1997-2006,8,6111,4459,7754,77,22,SW233A Jaflong Spill,1997-2006,5.1,4.6,5.6,2,7,1995-2004,167,11.2,331,884,,,,
+Jadukata,CL49 Laurergarh,1998-2007,4,5250,4390,6305,77,21,SW131.5 Laurergarh,1994-2003,4.8,4.0,5.8,3,7,1994-2003,136,32.0,315,1885,SY102 Tahirpur,1990-1999,3.2,2.4
