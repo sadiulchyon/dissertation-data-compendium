@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24125087.svg)](https://doi.org/10.5281/zenodo.24125087)
 
-Open data of the PhD dissertation on sand and gravel extraction on the rivers of northern and northeast Bangladesh, by MD Sadiul Alam Chyon (Department of Geography and GIS, University of Illinois Urbana-Champaign; supervisor James L. Best).
+Open data of the PhD dissertation on sand and gravel extraction on the rivers of northern and northeast Bangladesh, by MD Sadiul Alam Chyon (ORCID 0009-0006-4509-8058; Department of Geography and GIS, University of Illinois Urbana-Champaign; supervisor Jim Best, ORCID 0000-0001-5314-6140).
 
 The thesis reconstructs where and when sand and gravel extraction developed along the northern fringe of Bangladesh since the late 1980s (Chapter 4), dates extraction and recovery on the Lubha River (Chapter 5), traces the impact chain of sand mining across channel, aquifer and floodplain on the Someshwari River (Chapter 6), tests whether the same chain recurs on the Jadukata, Piyain, Sari-Gowain and Lubha rivers (Chapter 7), and examines the governance of extraction on the Someshwari (Chapter 8).
 

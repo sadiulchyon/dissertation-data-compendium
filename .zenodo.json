@@ -5,14 +5,16 @@
   "creators": [
     {
       "name": "Chyon, MD Sadiul Alam",
-      "affiliation": "University of Illinois Urbana-Champaign"
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "orcid": "0009-0006-4509-8058"
     }
   ],
   "contributors": [
     {
-      "name": "Best, James L.",
+      "name": "Best, Jim",
       "affiliation": "University of Illinois Urbana-Champaign",
-      "type": "Supervisor"
+      "type": "Supervisor",
+      "orcid": "0000-0001-5314-6140"
     }
   ],
   "license": "cc-by-4.0",
